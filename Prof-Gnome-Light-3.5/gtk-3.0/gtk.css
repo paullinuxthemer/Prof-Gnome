@@ -21,10 +21,10 @@
 .background { 
 
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20);
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20);
   background-color: rgba(246,246,246,0.98); }
 
 .popup.background {
@@ -41,48 +41,48 @@
 .gtkstyle-fallback { 
 
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20);  
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20);  
   background-color: rgba(246,246,246,0.98);}
 
 .gtkstyle-fallback:hover { 
 
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20); 
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20); 
   background-color: white;}
 
 .gtkstyle-fallback:active { 
 
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20);  
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20);  
   background-color: #dfdcd8;}
 
 .gtkstyle-fallback:disabled { 
 
   color: #929595; 
   text-shadow:    
-				 -0.5px  0px alpha(#929595, 0.2),
-				  0.5px  0px alpha(#929595, 0.2),
-				  0px  0.5px alpha(#929595, 0.2),
-				  0px -0.5px alpha(#929595, 0.2);
+				 -0.1px  0px alpha(#929595, 0.2),
+				  0.1px  0px alpha(#929595, 0.2),
+				  0px  0.1px alpha(#929595, 0.2),
+				  0px -0.1px alpha(#929595, 0.2);
   background-color: #faf9f8;}
 
 .gtkstyle-fallback:selected { 
 
   color: #ffffff; 
   text-shadow:    
-				 -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+				 -0.1px  0px alpha(#ffffff, 0.2),
+				  0.1px  0px alpha(#ffffff, 0.2),
+				  0px  0.1px alpha(#ffffff, 0.4),
+				  0px -0.1px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.15),
 				  0px  1px alpha(#000000, 0.15),
 				  1px  0px alpha(#000000, 0.15),
@@ -94,10 +94,10 @@
 .nautilus-desktop.nautilus-canvas-item{
 
   color: white;
-  text-shadow:   -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  text-shadow:   -0.1px  0px alpha(#ffffff, 0.2),
+				  0.1px  0px alpha(#ffffff, 0.2),
+				  0px  0.1px alpha(#ffffff, 0.4),
+				  0px -0.1px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.15),
 				  0px  1px alpha(#000000, 0.15),
 				  1px  0px alpha(#000000, 0.15),
@@ -106,10 +106,10 @@
 .nautilus-desktop.nautilus-canvas-item:active{
 
   color: white;
-  text-shadow:   -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  text-shadow:   -0.1px  0px alpha(#ffffff, 0.2),
+				  0.1px  0px alpha(#ffffff, 0.2),
+				  0px  0.1px alpha(#ffffff, 0.4),
+				  0px -0.1px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.15),
 				  0px  1px alpha(#000000, 0.15),
 				  1px  0px alpha(#000000, 0.15),
@@ -117,10 +117,10 @@
 
 .nautilus-desktop.nautilus-canvas-item:selected{
   color: #ffffff;
-  text-shadow:   -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  text-shadow:   -0.1px  0px alpha(#ffffff, 0.2),
+				  0.1px  0px alpha(#ffffff, 0.2),
+				  0px  0.1px alpha(#ffffff, 0.4),
+				  0px -0.1px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.15),
 				  0px  1px alpha(#000000, 0.15),
 				  1px  0px alpha(#000000, 0.15),
@@ -132,10 +132,10 @@ iconview text,
 textview text { 
 
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20);
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20);
    
   background-color: #ffffff;}
 
@@ -147,10 +147,10 @@ textview text:disabled {
 
   color: #929595; 
   text-shadow:    
-				 -0.5px  0px alpha(#929595, 0.2),
-				  0.5px  0px alpha(#929595, 0.2),
-				  0px  0.5px alpha(#929595, 0.2),
-				  0px -0.5px alpha(#929595, 0.2); 
+				 -0.1px  0px alpha(#929595, 0.2),
+				  0.1px  0px alpha(#929595, 0.2),
+				  0px  0.1px alpha(#929595, 0.2),
+				  0px -0.1px alpha(#929595, 0.2); 
   background-color: #faf9f8;}
 
 .view:selected:focus, 
@@ -214,10 +214,10 @@ label selection {
   background-color: #3584e4;
   color: #ffffff;
   text-shadow:    
-				 -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+				 -0.1px  0px alpha(#ffffff, 0.2),
+				  0.1px  0px alpha(#ffffff, 0.2),
+				  0px  0.1px alpha(#ffffff, 0.4),
+				  0px -0.1px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.15),
 				  0px  1px alpha(#000000, 0.15),
 				  1px  0px alpha(#000000, 0.15),
@@ -227,10 +227,10 @@ label:disabled {
 
   color: #929595;
   text-shadow:    
-				 -0.5px  0px alpha(#929595, 0.2),
-				  0.5px  0px alpha(#929595, 0.2),
-				  0px  0.5px alpha(#929595, 0.2),
-				  0px -0.5px alpha(#929595, 0.2);}
+				 -0.1px  0px alpha(#929595, 0.2),
+				  0.1px  0px alpha(#929595, 0.2),
+				  0px  0.1px alpha(#929595, 0.2),
+				  0px -0.1px alpha(#929595, 0.2);}
 
 .dim-label, 
 label.separator, 
@@ -269,10 +269,10 @@ popover.background.osd,
 
   color: #eeeeec; 
   text-shadow:    
-				 -0.5px  0px alpha(#eeeeec, 0.2),
-				  0.5px  0px alpha(#eeeeec, 0.2),
-				  0px  0.5px alpha(#eeeeec, 0.2),
-				  0px -0.5px alpha(#eeeeec, 0.2);
+				 -0.1px  0px alpha(#eeeeec, 0.2),
+				  0.1px  0px alpha(#eeeeec, 0.2),
+				  0px  0.1px alpha(#eeeeec, 0.2),
+				  0px -0.1px alpha(#eeeeec, 0.2);
   border: none; 
   background-color: rgba(36, 33, 42, 0.7); 
   background-clip: padding-box; 
@@ -310,10 +310,10 @@ entry {
   border-radius: 0.34375rem;/*4.66px;*/ 
   transition: all 200ms cubic-bezier(0.25, 0.46, 0.45, 0.94); 
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20); 
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20); 
   border-color: #cdcdcd; 
   background-color: #ffffff; 
   box-shadow: inset 0 0 0 1px rgba(53, 132, 228, 0);}
@@ -352,10 +352,10 @@ entry:disabled {
 
   color: #929595; 
   text-shadow:    
-				 -0.5px  0px alpha(#929595, 0.2),
-				  0.5px  0px alpha(#929595, 0.2),
-				  0px  0.5px alpha(#929595, 0.2),
-				  0px -0.5px alpha(#929595, 0.2);
+				 -0.1px  0px alpha(#929595, 0.2),
+				  0.1px  0px alpha(#929595, 0.2),
+				  0px  0.1px alpha(#929595, 0.2),
+				  0px -0.1px alpha(#929595, 0.2);
   border-color: #cdcdcd; 
   background-color: #faf9f8; 
   box-shadow: none; }
@@ -365,10 +365,10 @@ entry.error {
 
   color: #cc0000; 
   text-shadow:    
-				 -0.5px  0px alpha(#cc0000, 0.2),
-				  0.5px  0px alpha(#cc0000, 0.2),
-				  0px  0.5px alpha(#cc0000, 0.2),
-				  0px -0.5px alpha(#cc0000, 0.2); 
+				 -0.1px  0px alpha(#cc0000, 0.2),
+				  0.1px  0px alpha(#cc0000, 0.2),
+				  0px  0.1px alpha(#cc0000, 0.2),
+				  0px -0.1px alpha(#cc0000, 0.2); 
   border-color: #cc0000; }
 
 spinbutton.error:focus:not(.vertical), 
@@ -387,10 +387,10 @@ entry.warning {
 
   color: #f57900; 
   text-shadow:    
-				 -0.5px  0px alpha(#f57900, 0.2),
-				  0.5px  0px alpha(#f57900, 0.2),
-				  0px  0.5px alpha(#f57900, 0.2),
-				  0px -0.5px alpha(#f57900, 0.2); 
+				 -0.1px  0px alpha(#f57900, 0.2),
+				  0.1px  0px alpha(#f57900, 0.2),
+				  0px  0.1px alpha(#f57900, 0.2),
+				  0px -0.1px alpha(#f57900, 0.2); 
   border-color: #f57900; }
 
 spinbutton.warning:focus:not(.vertical), 
@@ -658,10 +658,10 @@ button.flat {
   background-image: none; 
   box-shadow: inset 0 1px rgba(255, 255, 255, 0); 
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20);
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20);
   -gtk-icon-shadow: none; 
   transition: none; }
 
@@ -675,10 +675,10 @@ button {
   border-radius: 0.34375rem;/*4.33px; */
   transition: all 200ms cubic-bezier(0.25, 0.46, 0.45, 0.94); 
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20) ;
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20) ;
   border-color: #d2d2d2;
   background-image:linear-gradient(to bottom, white 30%, #fafafa 95%);
   -gtk-icon-shadow: 0 1px rgba(255, 255, 255, 0.769231); 
@@ -688,10 +688,10 @@ button:active{
 
   border-color: #d2d2d2;
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20);
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20);
   -gtk-icon-shadow: 0 1px rgba(255, 255, 255, 0.769231); 
   box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.04);
   background-image: image(#e8e8e8);}
@@ -701,10 +701,10 @@ button.sidebar-button,
 button.flat { 
 
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20);
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20);
   border-color: transparent; 
   background-color: transparent; 
   background-image: none; 
@@ -732,10 +732,10 @@ button:hover {
   -gtk-icon-shadow: 0 1px rgba(255, 255, 255, 0.769231); 
   box-shadow: inset 0 1px white, 0 1px 2px rgba(0, 0, 0, 0.02); 
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20);
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20);
   border-color: #d2d2d2;
   background-image:image(#ffffff);
   -gtk-icon-effect: highlight; }
@@ -748,10 +748,10 @@ button:checked{
   border-bottom-color: #d2d2d2; 
   background-image: linear-gradient(to top, #1d71d7, #2f86f0); 
   color: white; 
-  text-shadow:   -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  text-shadow:   -0.1px  0px alpha(#ffffff, 0.2),
+				  0.1px  0px alpha(#ffffff, 0.2),
+				  0px  0.1px alpha(#ffffff, 0.4),
+				  0px -0.1px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.15),
 				  0px  1px alpha(#000000, 0.15),
 				  1px  0px alpha(#000000, 0.15),
@@ -765,10 +765,10 @@ button:checked:hover {
   outline-color: rgba(255, 255, 255, 0.3); 
   border-color: #d2d2d2;
   color: white; 
-  text-shadow:   -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  text-shadow:   -0.1px  0px alpha(#ffffff, 0.2),
+				  0.1px  0px alpha(#ffffff, 0.2),
+				  0px  0.1px alpha(#ffffff, 0.4),
+				  0px -0.1px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.15),
 				  0px  1px alpha(#000000, 0.15),
 				  1px  0px alpha(#000000, 0.15),
@@ -781,10 +781,10 @@ notebook > header > tabs > arrow:active,
 notebook > header > tabs > arrow:checked{ 
 
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20);
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20);
   outline-color: rgba(46, 52, 54, 0.3); 
   border-color: #bfbfbf;   
   border-bottom-color: #b3b3b3; 
@@ -814,10 +814,10 @@ button:disabled{
 headerbar button{
 
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20);
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20);
   border-color: #bfbfbf; 
   border-bottom-color: #b3b3b3;
   -gtk-icon-shadow: 0 1px rgba(255, 255, 255, 0.769231); 
@@ -827,10 +827,10 @@ headerbar button{
 headerbar button:hover { 
 
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20);
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20);
   border-color: #bfbfbf; 
   border-bottom-color: #b3b3b3;
   -gtk-icon-shadow: 0 1px rgba(255, 255, 255, 0.769231); 
@@ -838,6 +838,20 @@ headerbar button:hover {
   color: black;
   background-image: linear-gradient(to top, #f6f6f6, #f8f8f7 1px); 
   -gtk-icon-effect: highlight; }
+  
+headerbar button:active,
+headerbar button:checked{
+
+  color: #404040;
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20);
+  border-color: #bfbfbf; 
+  border-bottom-color: #b3b3b3;
+  -gtk-icon-shadow: 0 1px rgba(255, 255, 255, 0.769231); 
+  box-shadow: inset 0 1px white, 0 1px 2px rgba(0, 0, 0, 0.07);
+  background-image: linear-gradient(to bottom,#e6e6e6,#fafafa);}
 
 headerbar button:disabled { 
 
@@ -855,10 +869,10 @@ button:disabled {
 
   color: #929595;
   text-shadow:    
-				 -0.5px  0px alpha(#929595, 0.2),
-				  0.5px  0px alpha(#929595, 0.2),
-				  0px  0.5px alpha(#929595, 0.2),
-				  0px -0.5px alpha(#929595, 0.2); }
+				 -0.1px  0px alpha(#929595, 0.2),
+				  0.1px  0px alpha(#929595, 0.2),
+				  0px  0.1px alpha(#929595, 0.2),
+				  0px -0.1px alpha(#929595, 0.2); }
 
 notebook > header > tabs > arrow:disabled:active, 
 notebook > header > tabs > arrow:disabled:checked, 
@@ -880,10 +894,10 @@ button:disabled:checked {
 
  color: #929595; 
  text-shadow:    
-				 -0.5px  0px alpha(#929595, 0.2),
-				  0.5px  0px alpha(#929595, 0.2),
-				  0px  0.5px alpha(#929595, 0.2),
-				  0px -0.5px alpha(#929595, 0.2);}
+				 -0.1px  0px alpha(#929595, 0.2),
+				  0.1px  0px alpha(#929595, 0.2),
+				  0px  0.1px alpha(#929595, 0.2),
+				  0px -0.1px alpha(#929595, 0.2);}
 
 notebook > header > tabs > arrow.image-button, 
 button.image-button { 
@@ -926,10 +940,10 @@ row:selected button.flat:not(:active):not(:checked):not(:hover):not(disabled) {
 
   color: #ffffff; 
    text-shadow:    
-				 -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+				 -0.1px  0px alpha(#ffffff, 0.2),
+				  0.1px  0px alpha(#ffffff, 0.2),
+				  0px  0.1px alpha(#ffffff, 0.4),
+				  0px -0.1px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.15),
 				  0px  1px alpha(#000000, 0.15),
 				  1px  0px alpha(#000000, 0.15),
@@ -1023,10 +1037,10 @@ popover.background.magnifier button,
 
   color: #eeeeec; 
   text-shadow:       
-				 -0.5px  0px alpha(#eeeeec, 0.2),
-				  0.5px  0px alpha(#eeeeec, 0.2),
-				  0px  0.5px alpha(#eeeeec, 0.2),
-				  0px -0.5px alpha(#eeeeec, 0.2),
+				 -0.1px  0px alpha(#eeeeec, 0.2),
+				  0.1px  0px alpha(#eeeeec, 0.2),
+				  0px  0.1px alpha(#eeeeec, 0.2),
+				  0px -0.1px alpha(#eeeeec, 0.2),
 				  0px -1px alpha(#000000, 0.15),
 				  0px  1px alpha(#000000, 0.15),
 				  1px  0px alpha(#000000, 0.15),
@@ -1179,10 +1193,10 @@ button.suggested-action {
 
   color: white; 
   text-shadow:    
-				  -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+				  -0.1px  0px alpha(#ffffff, 0.2),
+				  0.1px  0px alpha(#ffffff, 0.2),
+				  0px  0.1px alpha(#ffffff, 0.4),
+				  0px -0.1px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.15),
 				  0px  1px alpha(#000000, 0.15),
 				  1px  0px alpha(#000000, 0.15),
@@ -1220,10 +1234,10 @@ button.suggested-action:hover {
 
   color: white; 
   text-shadow:    
-				 -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+				 -0.1px  0px alpha(#ffffff, 0.2),
+				  0.1px  0px alpha(#ffffff, 0.2),
+				  0px  0.1px alpha(#ffffff, 0.4),
+				  0px -0.1px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.15),
 				  0px  1px alpha(#000000, 0.15),
 				  1px  0px alpha(#000000, 0.15),
@@ -1239,10 +1253,10 @@ button.suggested-action:checked {
 
   color: white; 
    text-shadow:    
-				  -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+				  -0.1px  0px alpha(#ffffff, 0.2),
+				  0.1px  0px alpha(#ffffff, 0.2),
+				  0px  0.1px alpha(#ffffff, 0.4),
+				  0px -0.1px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.15),
 				  0px  1px alpha(#000000, 0.15),
 				  1px  0px alpha(#000000, 0.15),
@@ -1275,10 +1289,10 @@ button.suggested-action:disabled {
 
   color: #929595; 
   text-shadow:    
-				 -0.5px  0px alpha(#929595, 0.2),
-				  0.5px  0px alpha(#929595, 0.2),
-				  0px  0.5px alpha(#929595, 0.2),
-				  0px -0.5px alpha(#929595, 0.2);} 
+				 -0.1px  0px alpha(#929595, 0.2),
+				  0.1px  0px alpha(#929595, 0.2),
+				  0px  0.1px alpha(#929595, 0.2),
+				  0px -0.1px alpha(#929595, 0.2);} 
 
 button.suggested-action:disabled:active, 
 button.suggested-action:disabled:checked { 
@@ -1298,10 +1312,10 @@ color: #acccf4; }
 
   color: #eeeeec; 
   text-shadow:      
-				 -0.5px  0px alpha(#eeeeec, 0.2),
-				  0.5px  0px alpha(#eeeeec, 0.2),
-				  0px  0.5px alpha(#eeeeec, 0.2),
-				  0px -0.5px alpha(#eeeeec, 0.2),
+				 -0.1px  0px alpha(#eeeeec, 0.2),
+				  0.1px  0px alpha(#eeeeec, 0.2),
+				  0px  0.1px alpha(#eeeeec, 0.2),
+				  0px -0.1px alpha(#eeeeec, 0.2),
 				  0px -1px alpha(#000000, 0.15),
 				  0px  1px alpha(#000000, 0.15),
 				  1px  0px alpha(#000000, 0.15),
@@ -1368,10 +1382,10 @@ button.destructive-action {
 
   color: white; 
   text-shadow:   
-				 -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+				 -0.1px  0px alpha(#ffffff, 0.2),
+				  0.1px  0px alpha(#ffffff, 0.2),
+				  0px  0.1px alpha(#ffffff, 0.4),
+				  0px -0.1px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.15),
 				  0px  1px alpha(#000000, 0.15),
 				  1px  0px alpha(#000000, 0.15),
@@ -1396,10 +1410,10 @@ button.destructive-action:hover {
 
   color: white;
   text-shadow:    
-				  -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+				  -0.1px  0px alpha(#ffffff, 0.2),
+				  0.1px  0px alpha(#ffffff, 0.2),
+				  0px  0.1px alpha(#ffffff, 0.4),
+				  0px -0.1px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.15),
 				  0px  1px alpha(#000000, 0.15),
 				  1px  0px alpha(#000000, 0.15),
@@ -1415,10 +1429,10 @@ button.destructive-action:checked {
 
   color: white; 
   text-shadow:    
-				  -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+				  -0.1px  0px alpha(#ffffff, 0.2),
+				  0.1px  0px alpha(#ffffff, 0.2),
+				  0px  0.1px alpha(#ffffff, 0.4),
+				  0px -0.1px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.15),
 				  0px  1px alpha(#000000, 0.15),
 				  1px  0px alpha(#000000, 0.15),
@@ -1451,10 +1465,10 @@ button.destructive-action:disabled {
 
   color: #929595;
   text-shadow:    
-				 -0.5px  0px alpha(#929595, 0.2),
-				  0.5px  0px alpha(#929595, 0.2),
-				  0px  0.5px alpha(#929595, 0.2),
-				  0px -0.5px alpha(#929595, 0.2);}
+				 -0.1px  0px alpha(#929595, 0.2),
+				  0.1px  0px alpha(#929595, 0.2),
+				  0px  0.1px alpha(#929595, 0.2),
+				  0px -0.1px alpha(#929595, 0.2);}
 				  
 button.destructive-action:disabled:active, 
 button.destructive-action:disabled:checked { 
@@ -1474,10 +1488,10 @@ button.destructive-action:disabled:checked {
 
   color: #eeeeec; 
   text-shadow:      
-				 -0.5px  0px alpha(#eeeeec, 0.2),
-				  0.5px  0px alpha(#eeeeec, 0.2),
-				  0px  0.5px alpha(#eeeeec, 0.2),
-				  0px -0.5px alpha(#eeeeec, 0.2),
+				 -0.1px  0px alpha(#eeeeec, 0.2),
+				  0.1px  0px alpha(#eeeeec, 0.2),
+				  0px  0.1px alpha(#eeeeec, 0.2),
+				  0px -0.1px alpha(#eeeeec, 0.2),
 				  0px -1px alpha(#000000, 0.15),
 				  0px  1px alpha(#000000, 0.15),
 				  1px  0px alpha(#000000, 0.15),
@@ -1603,10 +1617,10 @@ button.circular label {
 button.circular:not(.flat):not(:checked):not(:active):not(:disabled):not(:backdrop) { 
 
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20); 
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20); 
   outline-color: rgba(46, 52, 54, 0.3); 
   border-color: #cdcdcd; 
   border-bottom-color: #bfbfbf; 
@@ -1619,10 +1633,10 @@ button.circular:not(.flat):not(:checked):not(:active):not(:disabled):not(:backdr
 button.circular:hover:not(:checked):not(:active):not(:disabled):not(:backdrop) { 
 
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20); 
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20); 
   outline-color: rgba(46, 52, 54, 0.3); 
   border-color: #cdcdcd; 
   border-bottom-color: #bfbfbf;  
@@ -1650,10 +1664,10 @@ stacksidebar row.needs-attention > label:dir(rtl) {
 .inline-toolbar toolbutton > button { 
 
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20); 
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20); 
   outline-color: rgba(46, 52, 54, 0.3); 
   border-color: #cdcdcd; 
   border-bottom-color: #bfbfbf; 
@@ -1664,10 +1678,10 @@ stacksidebar row.needs-attention > label:dir(rtl) {
 .inline-toolbar toolbutton > button:hover { 
 
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20);
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20);
   outline-color: rgba(46, 52, 54, 0.3); 
   border-color: #cdcdcd; 
   border-bottom-color: #bfbfbf; 
@@ -1680,10 +1694,10 @@ stacksidebar row.needs-attention > label:dir(rtl) {
 .inline-toolbar toolbutton > button:checked { 
 
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20);
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20);
   outline-color: rgba(46, 52, 54, 0.3); 
   border-color: #cdcdcd; 
   background-image: image(#d6d1cd); 
@@ -1702,10 +1716,10 @@ stacksidebar row.needs-attention > label:dir(rtl) {
 
   color: #929595; 
   text-shadow:    
-				 -0.5px  0px alpha(#929595, 0.2),
-				  0.5px  0px alpha(#929595, 0.2),
-				  0px  0.5px alpha(#929595, 0.2),
-				  0px -0.5px alpha(#929595, 0.2);}
+				 -0.1px  0px alpha(#929595, 0.2),
+				  0.1px  0px alpha(#929595, 0.2),
+				  0px  0.1px alpha(#929595, 0.2),
+				  0px -0.1px alpha(#929595, 0.2);}
 
 .inline-toolbar toolbutton > button:disabled:active, 
 .inline-toolbar toolbutton > button:disabled:checked { 
@@ -1721,10 +1735,10 @@ stacksidebar row.needs-attention > label:dir(rtl) {
 
   color: #929595;
   text-shadow:    
-				 -0.5px  0px alpha(#929595, 0.2),
-				  0.5px  0px alpha(#929595, 0.2),
-				  0px  0.5px alpha(#929595, 0.2),
-				  0px -0.5px alpha(#929595, 0.2); }
+				 -0.1px  0px alpha(#929595, 0.2),
+				  0.1px  0px alpha(#929595, 0.2),
+				  0px  0.1px alpha(#929595, 0.2),
+				  0px -0.1px alpha(#929595, 0.2); }
 
 .inline-toolbar toolbutton > button:backdrop:disabled:active label, 
 .inline-toolbar toolbutton > button:backdrop:disabled:checked label { 
@@ -1854,10 +1868,10 @@ calendar.button,
 modelbutton.flat, 
 .menuitem.button.flat { 
 color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20);
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20);
   min-height: 1.7875rem;/*26px;*/ 
   padding-left:0.55rem;/* 8px;*/ 
   padding-right: 0.55rem;/* 8px;*/ 
@@ -1868,10 +1882,10 @@ modelbutton.flat:hover,
 .menuitem.button.flat:hover { 
 
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20);	
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20);	
   background-image:linear-gradient(to right,rgba(100,103,114,0.1),rgba(100,103,114,0.18),rgba(100,103,114,0.18),rgba(100,103,114,0.1));}
  
 
@@ -1924,10 +1938,10 @@ button.color:checked colorswatch:only-child {
 list row button {
 
  color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20);
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20);
   border-radius: 0.34375rem;/*4.66px*/
   background-image: linear-gradient(to bottom, white 30%, #fafafa 95%);
   border-color: #d2d2d2;}
@@ -1935,10 +1949,10 @@ list row button {
 list row button:active {
 
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20);
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20);
   background-image: linear-gradient(to top,#e8e8e8,#e8e8e8);
   box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.04);}
   
@@ -2077,10 +2091,10 @@ spinbutton:not(.vertical) button:dir(rtl) {
 spinbutton:not(.vertical) button:hover { 
 
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20); 
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20); 
   background-color: rgba(46, 52, 54, 0.05); }
 
 spinbutton:not(.vertical) button:disabled { 
@@ -2110,10 +2124,10 @@ spinbutton:not(.vertical) button:dir(rtl):first-child {
   -gtk-icon-shadow: none; 
   color: #eeeeec; 
   text-shadow:        
-				 -0.5px  0px alpha(#eeeeec, 0.2),
-				  0.5px  0px alpha(#eeeeec, 0.2),
-				  0px  0.5px alpha(#eeeeec, 0.2),
-				  0px -0.5px alpha(#eeeeec, 0.2);
+				 -0.1px  0px alpha(#eeeeec, 0.2),
+				  0.1px  0px alpha(#eeeeec, 0.2),
+				  0px  0.1px alpha(#eeeeec, 0.2),
+				  0px -0.1px alpha(#eeeeec, 0.2);
   border-style: none none none solid; 
   border-color: rgba(0, 0, 0, 0.4); 
   border-radius: 0; 
@@ -2132,10 +2146,10 @@ spinbutton:not(.vertical) button:dir(rtl):first-child {
   -gtk-icon-shadow: none; 
   color: #eeeeec; 
   text-shadow:    
-				 -0.5px  0px alpha(#eeeeec, 0.2),
-				  0.5px  0px alpha(#eeeeec, 0.2),
-				  0px  0.5px alpha(#eeeeec, 0.2),
-				  0px -0.5px alpha(#eeeeec, 0.2);
+				 -0.1px  0px alpha(#eeeeec, 0.2),
+				  0.1px  0px alpha(#eeeeec, 0.2),
+				  0px  0.1px alpha(#eeeeec, 0.2),
+				  0px -0.1px alpha(#eeeeec, 0.2);
   border-color: rgba(0, 0, 0, 0.5); 
   background-color: rgba(238, 238, 236, 0.1); 
   -gtk-icon-shadow: 0 1px black; 
@@ -2170,10 +2184,10 @@ spinbutton.vertical:disabled {
 
   color: #929595; 
   text-shadow:    
-				 -0.5px  0px alpha(#929595, 0.2),
-				  0.5px  0px alpha(#929595, 0.2),
-				  0px  0.5px alpha(#929595, 0.2),
-				  0px -0.5px alpha(#929595, 0.2); }
+				 -0.1px  0px alpha(#929595, 0.2),
+				  0.1px  0px alpha(#929595, 0.2),
+				  0px  0.1px alpha(#929595, 0.2),
+				  0px -0.1px alpha(#929595, 0.2); }
 
 spinbutton.vertical:drop(active) { 
 
@@ -2205,10 +2219,10 @@ spinbutton.vertical button.down {
 
   color: #eeeeec; 
   text-shadow:    
-				 -0.5px  0px alpha(#eeeeec, 0.2),
-				  0.5px  0px alpha(#eeeeec, 0.2),
-				  0px  0.5px alpha(#eeeeec, 0.2),
-				  0px -0.5px alpha(#eeeeec, 0.2);
+				 -0.1px  0px alpha(#eeeeec, 0.2),
+				  0.1px  0px alpha(#eeeeec, 0.2),
+				  0px  0.1px alpha(#eeeeec, 0.2),
+				  0px -0.1px alpha(#eeeeec, 0.2);
   border-color: rgba(0, 0, 0, 0.7); 
   background-color: transparent; 
   background-image: image(rgba(36, 33, 42, 0.7)); 
@@ -2270,10 +2284,10 @@ treeview spinbutton:not(.vertical) entry {
 
 combobox arrow { 
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20);
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20);
   -gtk-icon-source: -gtk-icontheme("pan-down-symbolic"); 
   min-height: 1.1rem;/*16px;*/ 
   min-width: 1.1rem;/*16px;*/ }
@@ -2281,10 +2295,10 @@ combobox arrow {
 combobox:drop(active) { 
 
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20);
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20);
   box-shadow: none; }
 
 /*(((((((((( Toolbars )))))))))) */
@@ -2410,20 +2424,20 @@ headerbar .title {
   padding-right:  0.825rem;/*12px;*/ 
   font-weight: normal; 
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20);}
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20);}
   
 .titlebar:not(headerbar) .subtitle, 
 headerbar .subtitle { 
 
   font-size: smaller; 
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20);
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20);
   padding-left:  0.825rem;/*12px;*/ 
   padding-right:  0.825rem;/*12px;*/}
   
@@ -2445,10 +2459,10 @@ headerbar .subtitle:backdrop {
 headerbar.selection-mode { 
 
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20); 
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20); 
   border-color: #ababab; 
   background:linear-gradient(to top, rgba(195,195,195,0.98), rgba(220,220,220,0.98));
   box-shadow: inset 0 1px rgba(255, 255, 255, 0.7);}
@@ -2460,10 +2474,10 @@ headerbar.selection-mode {
  
   color: #ffffff; 
   text-shadow:    
-				 -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+				 -0.1px  0px alpha(#ffffff, 0.2),
+				  0.1px  0px alpha(#ffffff, 0.2),
+				  0px  0.1px alpha(#ffffff, 0.4),
+				  0px -0.1px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.15),
 				  0px  1px alpha(#000000, 0.15),
 				  1px  0px alpha(#000000, 0.15),
@@ -2504,10 +2518,10 @@ headerbar.selection-mode button:checked {
 
   color: #ffffff; 
   text-shadow:    
-				 -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+				 -0.1px  0px alpha(#ffffff, 0.2),
+				  0.1px  0px alpha(#ffffff, 0.2),
+				  0px  0.1px alpha(#ffffff, 0.4),
+				  0px -0.1px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.15),
 				  0px  1px alpha(#000000, 0.15),
 				  1px  0px alpha(#000000, 0.15),
@@ -2577,10 +2591,10 @@ headerbar.selection-mode button:disabled:checked {
 headerbar.selection-mode button.suggested-action { 
 
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20);
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20);
   outline-color: rgba(46, 52, 54, 0.3); 
   border-color: #cdcdcd; 
   border-bottom-color: #bfbfbf; 
@@ -2595,10 +2609,10 @@ headerbar.selection-mode button.suggested-action {
 headerbar.selection-mode button.suggested-action:hover { 
 
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20);
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20);
   outline-color: rgba(46, 52, 54, 0.3); 
   border-color: #cdcdcd; 
   border-bottom-color: #bfbfbf; 
@@ -2613,10 +2627,10 @@ headerbar.selection-mode button.suggested-action:hover {
 headerbar.selection-mode button.suggested-action:active { 
 
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20);
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20);
   outline-color: rgba(46, 52, 54, 0.3); 
   border-color: #cdcdcd; 
   background-image: image(#d6d1cd); 
@@ -2647,10 +2661,10 @@ headerbar.selection-mode button.suggested-action:disabled {
 
   color: #929595; 
   text-shadow:    
-				 -0.5px  0px alpha(#929595, 0.2),
-				  0.5px  0px alpha(#929595, 0.2),
-				  0px  0.5px alpha(#929595, 0.2),
-				  0px -0.5px alpha(#929595, 0.2);}
+				 -0.1px  0px alpha(#929595, 0.2),
+				  0.1px  0px alpha(#929595, 0.2),
+				  0px  0.1px alpha(#929595, 0.2),
+				  0px -0.1px alpha(#929595, 0.2);}
 
 .selection-mode .titlebar:not(headerbar) .selection-menu,
 .selection-mode.titlebar:not(headerbar) .selection-menu, 
@@ -2715,18 +2729,18 @@ headerbar button.toggle:checked,
   border-bottom-color: #b3b3b3; 
   background-color: transparent;
   background-image: linear-gradient(to bottom,#858585,#727272);
-  text-shadow:  -0.5px  0px alpha(#ffffff, 0.25),
-				  0.5px  0px alpha(#ffffff, 0.25),
-				  0px  0.5px alpha(#ffffff, 0.25),
-				  0px -0.5px alpha(#ffffff, 0.25),
+  text-shadow:  -0.1px  0px alpha(#ffffff, 0.25),
+				  0.1px  0px alpha(#ffffff, 0.25),
+				  0px  0.1px alpha(#ffffff, 0.25),
+				  0px -0.1px alpha(#ffffff, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow: -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  -gtk-icon-shadow: -0.1px  0px alpha(#ffffff, 0.2),
+				  0.1px  0px alpha(#ffffff, 0.2),
+				  0px  0.1px alpha(#ffffff, 0.4),
+				  0px -0.1px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.10),
 				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.10),
@@ -2740,18 +2754,18 @@ headerbar button.toggle:checked:hover{
   border-color: #bfbfbf; 
   border-bottom-color: #b3b3b3; 
   background-image: linear-gradient(to bottom,#858585,#727272);
-  text-shadow:  -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  text-shadow:  -0.1px  0px alpha(#ffffff, 0.2),
+				  0.1px  0px alpha(#ffffff, 0.2),
+				  0px  0.1px alpha(#ffffff, 0.4),
+				  0px -0.1px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.10),
 				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.10),
 				 -1px  0px alpha(#000000, 0.10);
-  -gtk-icon-shadow: -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  -gtk-icon-shadow: -0.1px  0px alpha(#ffffff, 0.2),
+				  0.1px  0px alpha(#ffffff, 0.2),
+				  0px  0.1px alpha(#ffffff, 0.4),
+				  0px -0.1px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.10),
 				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.10),
@@ -2896,10 +2910,10 @@ window.devel headerbar.titlebar:not(.selection-mode) {
 window.devel headerbar.titlebar:not(.selection-mode) label { 
 
  color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20); }
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20); }
 
 /*(((((((((( Pathbars ))))))))))*/
 
@@ -2962,10 +2976,10 @@ treeview.view:disabled {
 
   color: #929595;
   text-shadow:    
-				 -0.5px  0px alpha(#929595, 0.2),
-				  0.5px  0px alpha(#929595, 0.2),
-				  0px  0.5px alpha(#929595, 0.2),
-				  0px -0.5px alpha(#929595, 0.2); }
+				 -0.1px  0px alpha(#929595, 0.2),
+				  0.1px  0px alpha(#929595, 0.2),
+				  0px  0.1px alpha(#929595, 0.2),
+				  0px -0.1px alpha(#929595, 0.2); }
 
 treeview.view:disabled:selected { 
 
@@ -3011,10 +3025,10 @@ treeview.view.expander:selected:hover {
 
   color: #ffffff;
   text-shadow:    
-				 -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+				 -0.1px  0px alpha(#ffffff, 0.2),
+				  0.1px  0px alpha(#ffffff, 0.2),
+				  0px  0.1px alpha(#ffffff, 0.4),
+				  0px -0.1px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.15),
 				  0px  1px alpha(#000000, 0.15),
 				  1px  0px alpha(#000000, 0.15),
@@ -3058,10 +3072,10 @@ treeview.view.trough:selected {
 treeview.view header button { 
 
   color: #979a9b; 
-  text-shadow:   -0.5px  0px alpha(#979a9b, 0.2),
-				  0.5px  0px alpha(#979a9b, 0.2),
-				  0px  0.5px alpha(#979a9b, 0.2),
-				  0px -0.5px alpha(#979a9b, 0.2);
+  text-shadow:   -0.1px  0px alpha(#979a9b, 0.2),
+				  0.1px  0px alpha(#979a9b, 0.2),
+				  0px  0.1px alpha(#979a9b, 0.2),
+				  0px -0.1px alpha(#979a9b, 0.2);
   background-color: #ffffff; 
   font-weight:normal;  
   box-shadow: none; }
@@ -3069,20 +3083,20 @@ treeview.view header button {
 treeview.view header button:hover { 
 
   color: #636769; 
-  text-shadow:   -0.5px  0px alpha(#636769, 0.2),
-				  0.5px  0px alpha(#636769, 0.2),
-				  0px  0.5px alpha(#636769, 0.2),
-				  0px -0.5px alpha(#636769, 0.2);
+  text-shadow:   -0.1px  0px alpha(#636769, 0.2),
+				  0.1px  0px alpha(#636769, 0.2),
+				  0px  0.1px alpha(#636769, 0.2),
+				  0px -0.1px alpha(#636769, 0.2);
   box-shadow: none; 
   transition: none; }
 
 treeview.view header button:active { 
 
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20);
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20);
   transition: none; }
 
 treeview.view button.dnd:active, 
@@ -3097,10 +3111,10 @@ treeview.view header.button.dnd {
   padding: 0 0.4125rem;/*6px;*/ 
   color: #ffffff; 
   text-shadow:    
-				 -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+				 -0.1px  0px alpha(#ffffff, 0.2),
+				  0.1px  0px alpha(#ffffff, 0.2),
+				  0px  0.1px alpha(#ffffff, 0.4),
+				  0px -0.1px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.15),
 				  0px  1px alpha(#000000, 0.15),
 				  1px  0px alpha(#000000, 0.15),
@@ -3110,7 +3124,7 @@ treeview.view header.button.dnd {
   border-style: none; 
   border-radius: 0; 
   box-shadow: inset 0 0 0 1px #ffffff; 
-  text-shadow: none; transition: none; }
+  transition: none; }
 
 treeview.view acceleditor > label { 
 
@@ -3124,8 +3138,7 @@ treeview.view header button:active {
   background-image: none; 
   border-style: none solid solid none; 
   border-color: #f6f6f6; 
-  border-radius: 0; 
-  text-shadow: none; }
+  border-radius: 0; }
 
 treeview.view header button:disabled { 
 
@@ -3150,10 +3163,10 @@ menubar > menuitem,
 .menubar > menuitem { 
 
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20); 
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20); 
   min-height: 1.1rem; /*16px;*/ 
   padding: 0.275rem 0.55rem; }/*4 8*/
 
@@ -3162,20 +3175,20 @@ menubar > menuitem:hover,
 
   box-shadow: inset 0 -3px #3584e4; 
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20);  }
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20);  }
 
 menubar > menuitem:disabled, 
 .menubar > menuitem:disabled { 
 
   color: #929595; 
   text-shadow:    
-				 -0.5px  0px alpha(#929595, 0.2),
-				  0.5px  0px alpha(#929595, 0.2),
-				  0px  0.5px alpha(#929595, 0.2),
-				  0px -0.5px alpha(#929595, 0.2);
+				 -0.1px  0px alpha(#929595, 0.2),
+				  0.1px  0px alpha(#929595, 0.2),
+				  0px  0.1px alpha(#929595, 0.2),
+				  0px -0.1px alpha(#929595, 0.2);
   box-shadow: none; }
 
 menubar .csd.popup decoration, 
@@ -3219,10 +3232,10 @@ menu menuitem,
 .menu menuitem, 
 .context-menu menuitem {
 color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20);
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20);
   min-height: 1.1rem;/*16px;*/ 
   min-width: 2.75rem;/*40px;*/ 
   padding: 0.275rem 0.4125rem;/*4 6 */ }
@@ -3233,10 +3246,10 @@ menu menuitem:hover,
 
   color: #ffffff;
   text-shadow:    
-				 -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+				 -0.1px  0px alpha(#ffffff, 0.2),
+				  0.1px  0px alpha(#ffffff, 0.2),
+				  0px  0.1px alpha(#ffffff, 0.4),
+				  0px -0.1px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.15),
 				  0px  1px alpha(#000000, 0.15),
 				  1px  0px alpha(#000000, 0.15),
@@ -3249,10 +3262,10 @@ menu menuitem:disabled,
 
   color: #929595;
   text-shadow:    
-				 -0.5px  0px alpha(#929595, 0.2),
-				  0.5px  0px alpha(#929595, 0.2),
-				  0px  0.5px alpha(#929595, 0.2),
-				  0px -0.5px alpha(#929595, 0.2); }
+				 -0.1px  0px alpha(#929595, 0.2),
+				  0.1px  0px alpha(#929595, 0.2),
+				  0px  0.1px alpha(#929595, 0.2),
+				  0px -0.1px alpha(#929595, 0.2); }
 
 menu menuitem arrow, 
 .menu menuitem arrow, 
@@ -3361,10 +3374,10 @@ popover.background,
 popover{
  
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20);
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20);
   border: none;
   padding: 0.1375rem;/*2px*/ 
   border-radius: 0.5205rem;/*6px;*/ 
@@ -3494,10 +3507,10 @@ notebook > header tab {
   padding: 1px 0.825rem;/*12px;*/ 
   outline-offset: -5px; 
   color: #505050;/*#929595; */
-  text-shadow:   -0.5px  0px alpha(#505050, 0.20),
-				  0.5px  0px alpha(#505050, 0.20),
-				  0px  0.5px alpha(#505050, 0.20),
-				  0px -0.5px alpha(#505050, 0.20);
+  text-shadow:   -0.1px  0px alpha(#505050, 0.20),
+				  0.1px  0px alpha(#505050, 0.20),
+				  0px  0.1px alpha(#505050, 0.20),
+				  0px -0.1px alpha(#505050, 0.20);
   font-weight: normal; 
   border-width: 1px; 
   border-color: transparent; }
@@ -3505,10 +3518,10 @@ notebook > header tab {
 notebook > header tab:hover { 
 
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20); }
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20); }
 
 notebook > header tab:hover.reorderable-page { 
 
@@ -3518,10 +3531,10 @@ notebook > header tab:hover.reorderable-page {
 notebook > header tab:checked { 
 
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20); }
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20); }
 
 notebook > header tab:checked.reorderable-page { 
 
@@ -4225,10 +4238,10 @@ treeview.view radio:selected:disabled {
   background-color: rgba(33,116,216,0.85);/*#3584e4;*/
   color: #ffffff;
   text-shadow:    
-				   -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+				   -0.1px  0px alpha(#ffffff, 0.2),
+				  0.1px  0px alpha(#ffffff, 0.2),
+				  0px  0.1px alpha(#ffffff, 0.4),
+				  0px -0.1px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.15),
 				  0px  1px alpha(#000000, 0.15),
 				  1px  0px alpha(#000000, 0.15),
@@ -4240,10 +4253,10 @@ treeview.view radio:selected:disabled {
 
   color: #ffffff;
   text-shadow:    
-				   -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+				   -0.1px  0px alpha(#ffffff, 0.2),
+				  0.1px  0px alpha(#ffffff, 0.2),
+				  0px  0.1px alpha(#ffffff, 0.4),
+				  0px -0.1px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.15),
 				  0px  1px alpha(#000000, 0.15),
 				  1px  0px alpha(#000000, 0.15),
@@ -4258,10 +4271,10 @@ treeview.view radio:selected:disabled {
   background-image: none;
   color: #ffffff;
   text-shadow:    
-				   -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+				   -0.1px  0px alpha(#ffffff, 0.2),
+				  0.1px  0px alpha(#ffffff, 0.2),
+				  0px  0.1px alpha(#ffffff, 0.4),
+				  0px -0.1px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.15),
 				  0px  1px alpha(#000000, 0.15),
 				  1px  0px alpha(#000000, 0.15),
@@ -4275,10 +4288,10 @@ treeview.view radio:selected:disabled {
   background-image: none;
   color: #ffffff;
   text-shadow:    
-				   -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+				   -0.1px  0px alpha(#ffffff, 0.2),
+				  0.1px  0px alpha(#ffffff, 0.2),
+				  0px  0.1px alpha(#ffffff, 0.4),
+				  0px -0.1px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.15),
 				  0px  1px alpha(#000000, 0.15),
 				  1px  0px alpha(#000000, 0.15),
@@ -4305,10 +4318,10 @@ treeview.view radio:selected:disabled {
 
   color: #ffffff;
   text-shadow:    
-				   -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+				   -0.1px  0px alpha(#ffffff, 0.2),
+				  0.1px  0px alpha(#ffffff, 0.2),
+				  0px  0.1px alpha(#ffffff, 0.4),
+				  0px -0.1px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.15),
 				  0px  1px alpha(#000000, 0.15),
 				  1px  0px alpha(#000000, 0.15),
@@ -4957,10 +4970,10 @@ levelbar block.empty {
 printdialog paper {  
 
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20);  
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20);  
 
   border: 1px solid #cdcdcd; 
   background: white; 
@@ -5051,10 +5064,10 @@ separator {
 list { 
 
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20);
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20);
   background-color: #ffffff;
   border-color: #cdcdcd; }
 
@@ -5286,10 +5299,10 @@ placessidebar row {
   margin-left: 5px;
   margin-right: 5px;
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20);
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20);
   box-shadow: none;
   min-height:1.925rem;/*28px 2.475rem;36px;*/ 
   padding: 0px; }
@@ -5302,10 +5315,10 @@ placessidebar row > revealer {
 placessidebar row:hover { 
 
 color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20);
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20);
 background-color: rgba(0,0,0,0.07);}
 
 placessidebar row:hover:selected,
@@ -5316,10 +5329,10 @@ placessidebar row:selected {
   color: rgba(255,255,255,1);
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
   text-shadow:    
-				 -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+				 -0.1px  0px alpha(#ffffff, 0.2),
+				  0.1px  0px alpha(#ffffff, 0.2),
+				  0px  0.1px alpha(#ffffff, 0.4),
+				  0px -0.1px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.15),
 				  0px  1px alpha(#000000, 0.15),
 				  1px  0px alpha(#000000, 0.15),
@@ -5329,10 +5342,10 @@ placessidebar row:disabled {
 
  color: #929595; 
   text-shadow:    
-				 -0.5px  0px alpha(#929595, 0.2),
-				  0.5px  0px alpha(#929595, 0.2),
-				  0px  0.5px alpha(#929595, 0.2),
-				  0px -0.5px alpha(#929595, 0.2); }
+				 -0.1px  0px alpha(#929595, 0.2),
+				  0.1px  0px alpha(#929595, 0.2),
+				  0px  0.1px alpha(#929595, 0.2),
+				  0px -0.1px alpha(#929595, 0.2); }
 
 placessidebar row image.sidebar-icon:dir(ltr) { 
 
@@ -5389,10 +5402,10 @@ placessidebar row:drop(active):not(:disabled):selected {
 
   color: #ffffff; 
   text-shadow:    
-				 -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+				 -0.1px  0px alpha(#ffffff, 0.2),
+				  0.1px  0px alpha(#ffffff, 0.2),
+				  0px  0.1px alpha(#ffffff, 0.4),
+				  0px -0.1px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.15),
 				  0px  1px alpha(#000000, 0.15),
 				  1px  0px alpha(#000000, 0.15),
@@ -5499,10 +5512,10 @@ infobar.error {
 
   color: #ffffff;
   text-shadow:    
-				  -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+				  -0.1px  0px alpha(#ffffff, 0.2),
+				  0.1px  0px alpha(#ffffff, 0.2),
+				  0px  0.1px alpha(#ffffff, 0.4),
+				  0px -0.1px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.15),
 				  0px  1px alpha(#000000, 0.15),
 				  1px  0px alpha(#000000, 0.15),
@@ -5520,10 +5533,10 @@ infobar.error {
 
   color: #ffffff;
    text-shadow:    
-				  -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+				  -0.1px  0px alpha(#ffffff, 0.2),
+				  0.1px  0px alpha(#ffffff, 0.2),
+				  0px  0.1px alpha(#ffffff, 0.4),
+				  0px -0.1px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.15),
 				  0px  1px alpha(#000000, 0.15),
 				  1px  0px alpha(#000000, 0.15),
@@ -5551,10 +5564,10 @@ infobar.error button:hover {
 
   color: #ffffff; 
   text-shadow:    
-				  -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+				  -0.1px  0px alpha(#ffffff, 0.2),
+				  0.1px  0px alpha(#ffffff, 0.2),
+				  0px  0.1px alpha(#ffffff, 0.4),
+				  0px -0.1px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.15),
 				  0px  1px alpha(#000000, 0.15),
 				  1px  0px alpha(#000000, 0.15),
@@ -5577,10 +5590,10 @@ infobar.error button:checked {
 
   color: #ffffff; 
   text-shadow:    
-				  -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+				  -0.1px  0px alpha(#ffffff, 0.2),
+				  0.1px  0px alpha(#ffffff, 0.2),
+				  0px  0.1px alpha(#ffffff, 0.4),
+				  0px -0.1px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.15),
 				  0px  1px alpha(#000000, 0.15),
 				  1px  0px alpha(#000000, 0.15),
@@ -5627,10 +5640,10 @@ tooltip {
   border-radius: 0.34375rem;
   color: #ffffff;
   text-shadow:    
-				 -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+				 -0.1px  0px alpha(#ffffff, 0.2),
+				  0.1px  0px alpha(#ffffff, 0.2),
+				  0px  0.1px alpha(#ffffff, 0.4),
+				  0px -0.1px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.15),
 				  0px  1px alpha(#000000, 0.15),
 				  1px  0px alpha(#000000, 0.15),
@@ -5656,10 +5669,10 @@ tooltip * {
   background-color: rgba(0,0,0,0);
   color: #ffffff; 
   text-shadow:    
-				 -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+				 -0.1px  0px alpha(#ffffff, 0.2),
+				  0.1px  0px alpha(#ffffff, 0.2),
+				  0px  0.1px alpha(#ffffff, 0.4),
+				  0px -0.1px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.15),
 				  0px  1px alpha(#000000, 0.15),
 				  1px  0px alpha(#000000, 0.15),
@@ -5820,10 +5833,10 @@ calendar:selected {
   background-color: #3584e4;
   color: #ffffff;
   text-shadow:    
-				   -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+				   -0.1px  0px alpha(#ffffff, 0.2),
+				  0.1px  0px alpha(#ffffff, 0.2),
+				  0px  0.1px alpha(#ffffff, 0.4),
+				  0px -0.1px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.15),
 				  0px  1px alpha(#000000, 0.15),
 				  1px  0px alpha(#000000, 0.15),
@@ -5854,10 +5867,10 @@ calendar:selected {
 
   color: #ffffff;
   text-shadow:    
-				   -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+				   -0.1px  0px alpha(#ffffff, 0.2),
+				  0.1px  0px alpha(#ffffff, 0.2),
+				  0px  0.1px alpha(#ffffff, 0.4),
+				  0px -0.1px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.15),
 				  0px  1px alpha(#000000, 0.15),
 				  1px  0px alpha(#000000, 0.15),
@@ -6000,10 +6013,10 @@ popover button{
   border-color: rgba(105,105,105,0.3);
   
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20);
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20);
  
   background-image: none;
   box-shadow: none;
@@ -6014,10 +6027,10 @@ popover .linked:not(.vertical) > button{
 
   border-color: rgba(105,105,105,0.3);
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20);
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20);
   background-image: none;
   box-shadow: none;
   background-color: transparent;
@@ -6028,10 +6041,10 @@ popover .linked:not(.vertical) > button:hover:focus,
 popover .linked:not(.vertical) > button:hover{
 
   color: #404040;
-  text-shadow:   -0.5px  0px alpha(#404040, 0.20),
-				  0.5px  0px alpha(#404040, 0.20),
-				  0px  0.5px alpha(#404040, 0.20),
-				  0px -0.5px alpha(#404040, 0.20);
+  text-shadow:   -0.1px  0px alpha(#404040, 0.20),
+				  0.1px  0px alpha(#404040, 0.20),
+				  0px  0.1px alpha(#404040, 0.20),
+				  0px -0.1px alpha(#404040, 0.20);
   background-image: image(rgba(255,255,255,1));
   background-color: transparent;}
  

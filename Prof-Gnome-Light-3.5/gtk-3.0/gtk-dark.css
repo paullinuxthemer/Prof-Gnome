@@ -21,18 +21,18 @@
 .background { 
 
    color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -53,18 +53,18 @@
 .gtkstyle-fallback { 
 
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
- /* -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+ /* -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -74,18 +74,18 @@
 .gtkstyle-fallback:hover { 
 
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -95,18 +95,18 @@
 .gtkstyle-fallback:active { 
 
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -116,18 +116,18 @@
 .gtkstyle-fallback:disabled { 
 
   color: #8b8b8b;
-  text-shadow:  -0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  text-shadow:  -0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -137,18 +137,18 @@
 .gtkstyle-fallback:selected { 
 
   color: #ffffff; 
-  text-shadow:  -0.5px  0px alpha(#ffffff, 0.25),
-				  0.5px  0px alpha(#ffffff, 0.25),
-				  0px  0.5px alpha(#ffffff, 0.25),
-				  0px -0.5px alpha(#ffffff, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ffffff, 0.25),
+				  0.2px  0px alpha(#ffffff, 0.25),
+				  0px  0.2px alpha(#ffffff, 0.25),
+				  0px -0.2px alpha(#ffffff, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow: -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  -gtk-icon-shadow: -0.2px  0px alpha(#ffffff, 0.2),
+				  0.2px  0px alpha(#ffffff, 0.2),
+				  0px  0.2px alpha(#ffffff, 0.4),
+				  0px -0.2px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.10),
 				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.10),
@@ -160,18 +160,18 @@
 .nautilus-desktop.nautilus-canvas-item{
 
   color: white;
-  text-shadow:  -0.5px  0px alpha(#ffffff, 0.25),
-				  0.5px  0px alpha(#ffffff, 0.25),
-				  0px  0.5px alpha(#ffffff, 0.25),
-				  0px -0.5px alpha(#ffffff, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ffffff, 0.25),
+				  0.2px  0px alpha(#ffffff, 0.25),
+				  0px  0.2px alpha(#ffffff, 0.25),
+				  0px -0.2px alpha(#ffffff, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow: -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  -gtk-icon-shadow: -0.2px  0px alpha(#ffffff, 0.2),
+				  0.2px  0px alpha(#ffffff, 0.2),
+				  0px  0.2px alpha(#ffffff, 0.4),
+				  0px -0.2px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.10),
 				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.10),
@@ -181,18 +181,18 @@
 .nautilus-desktop.nautilus-canvas-item:active{
 
   color: white;
-  text-shadow:  -0.5px  0px alpha(#ffffff, 0.25),
-				  0.5px  0px alpha(#ffffff, 0.25),
-				  0px  0.5px alpha(#ffffff, 0.25),
-				  0px -0.5px alpha(#ffffff, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ffffff, 0.25),
+				  0.2px  0px alpha(#ffffff, 0.25),
+				  0px  0.2px alpha(#ffffff, 0.25),
+				  0px -0.2px alpha(#ffffff, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow: -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  -gtk-icon-shadow: -0.2px  0px alpha(#ffffff, 0.2),
+				  0.2px  0px alpha(#ffffff, 0.2),
+				  0px  0.2px alpha(#ffffff, 0.4),
+				  0px -0.2px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.10),
 				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.10),
@@ -200,18 +200,18 @@
 
 .nautilus-desktop.nautilus-canvas-item:selected{
   color: white;
-  text-shadow:  -0.5px  0px alpha(#ffffff, 0.25),
-				  0.5px  0px alpha(#ffffff, 0.25),
-				  0px  0.5px alpha(#ffffff, 0.25),
-				  0px -0.5px alpha(#ffffff, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ffffff, 0.25),
+				  0.2px  0px alpha(#ffffff, 0.25),
+				  0px  0.2px alpha(#ffffff, 0.25),
+				  0px -0.2px alpha(#ffffff, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow: -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  -gtk-icon-shadow: -0.2px  0px alpha(#ffffff, 0.2),
+				  0.2px  0px alpha(#ffffff, 0.2),
+				  0px  0.2px alpha(#ffffff, 0.4),
+				  0px -0.2px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.10),
 				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.10),
@@ -223,18 +223,18 @@ iconview text,
 textview text { 
 
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
- -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+ -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -248,18 +248,18 @@ iconview text:disabled,
 textview text:disabled { 
 
   color: #8b8b8b;
-  text-shadow:  -0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  text-shadow:  -0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -326,18 +326,18 @@ label selection {
 
   background-color: #15539e;
   color: #ffffff;
-  text-shadow:  -0.5px  0px alpha(#ffffff, 0.25),
-				  0.5px  0px alpha(#ffffff, 0.25),
-				  0px  0.5px alpha(#ffffff, 0.25),
-				  0px -0.5px alpha(#ffffff, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ffffff, 0.25),
+				  0.2px  0px alpha(#ffffff, 0.25),
+				  0px  0.2px alpha(#ffffff, 0.25),
+				  0px -0.2px alpha(#ffffff, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow: -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  -gtk-icon-shadow: -0.2px  0px alpha(#ffffff, 0.2),
+				  0.2px  0px alpha(#ffffff, 0.2),
+				  0px  0.2px alpha(#ffffff, 0.4),
+				  0px -0.2px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.10),
 				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.10),
@@ -346,18 +346,18 @@ label selection {
 label:disabled { 
 
   color: #8b8b8b;
-  text-shadow:  -0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  text-shadow:  -0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -368,7 +368,7 @@ label.separator,
 .titlebar:not(headerbar) .subtitle, 
 headerbar .subtitle { 
 
-  opacity: 0.55; text-shadow: none;}
+  opacity: 0.65; /*text-shadow: none;*/}
 
 assistant .sidebar { 
 
@@ -398,18 +398,18 @@ popover.background.osd,
 .osd .scale-popup, .osd { 
 
   color: #ececec; 
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -449,23 +449,23 @@ entry {
   border-radius: 0.34375rem;/*4.66px;*/ 
   transition: all 200ms cubic-bezier(0.25, 0.46, 0.45, 0.94); 
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18); 
-  border-color: #454545;
+  border-color: #393939;
   border-bottom-color: #323232; 
   background-color: #353535; 
   box-shadow: inset 0 0 0 1px rgba(53, 132, 228, 0);}
@@ -503,23 +503,23 @@ spinbutton:disabled:not(.vertical),
 entry:disabled { 
 
   color: #8b8b8b;
-  text-shadow:  -0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  text-shadow:  -0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  border-color: #454545;
+  border-color: #393939;
   border-bottom-color: #323232;
   background-color: #363636; 
   box-shadow: none; }
@@ -585,23 +585,23 @@ entry:drop(active) {
 .osd entry { 
 
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18); 
-  border-color: #454545;
+  border-color: #393939;
   border-bottom-color: #323232; 
   background-color: #353535;  
   background-clip: padding-box; 
@@ -611,18 +611,18 @@ entry:drop(active) {
 .osd entry:focus { 
 
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -636,23 +636,23 @@ entry:drop(active) {
 .osd entry:disabled { 
 
   color: #8b8b8b;
-  text-shadow:  -0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  text-shadow:  -0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18); 
-  border-color: #454545;
+  border-color: #393939;
   border-bottom-color: #323232;  
   background-color: #353535; 
   background-clip: padding-box; 
@@ -839,18 +839,18 @@ notebook > header > tabs > arrow,
 button.sidebar-button, 
 button.flat { 
  color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -871,24 +871,24 @@ button{
   border-radius: 0.34375rem;/*4.33px; */
   transition: all 200ms cubic-bezier(0.25, 0.46, 0.45, 0.94); 
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
-				  0px  1px alpha(#000000, 0.18),
+				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
-				  0px  1px alpha(#000000, 0.18),
+				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
 				 
-  border-color: #454545;
+  border-color: #393939;
   border-bottom-color: #323232;
   background-image: linear-gradient(to top,#494949,#595959);
   /*box-shadow: inset 0 1px white, 0 1px 2px rgba(0, 0, 0, 0.02); */}
@@ -896,23 +896,23 @@ button{
 toolbar button,  
 button:active{
 
-  border-color: #454545;
+  border-color: #393939;
   border-bottom-color: #323232;
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
-				  0px  1px alpha(#000000, 0.18),
+				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
-				  0px  1px alpha(#000000, 0.18),
+				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
   background-image: linear-gradient(to bottom,#494949,#595959);}
@@ -946,20 +946,20 @@ notebook > header > tabs > arrow:hover,
 button:hover { 
   
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
-				  0px  1px alpha(#000000, 0.18),
+				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
-				  0px  1px alpha(#000000, 0.18),
+				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
 				 
@@ -972,18 +972,18 @@ button:hover {
   
 button:checked{ 
 
-  text-shadow:  -0.5px  0px alpha(#ffffff, 0.25),
-				  0.5px  0px alpha(#ffffff, 0.25),
-				  0px  0.5px alpha(#ffffff, 0.25),
-				  0px -0.5px alpha(#ffffff, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ffffff, 0.25),
+				  0.2px  0px alpha(#ffffff, 0.25),
+				  0px  0.2px alpha(#ffffff, 0.25),
+				  0px -0.2px alpha(#ffffff, 0.25),
 				  0px -1px alpha(#000000, 0.18),
-				  0px  1px alpha(#000000, 0.18),
+				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow: -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  -gtk-icon-shadow: -0.2px  0px alpha(#ffffff, 0.2),
+				  0.2px  0px alpha(#ffffff, 0.2),
+				  0px  0.2px alpha(#ffffff, 0.4),
+				  0px -0.2px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.10),
 				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.10),
@@ -997,18 +997,18 @@ button:checked{
   
 button:checked:hover { 
 
-  text-shadow:  -0.5px  0px alpha(#ffffff, 0.25),
-				  0.5px  0px alpha(#ffffff, 0.25),
-				  0px  0.5px alpha(#ffffff, 0.25),
-				  0px -0.5px alpha(#ffffff, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ffffff, 0.25),
+				  0.2px  0px alpha(#ffffff, 0.25),
+				  0px  0.2px alpha(#ffffff, 0.25),
+				  0px -0.2px alpha(#ffffff, 0.25),
 				  0px -1px alpha(#000000, 0.18),
-				  0px  1px alpha(#000000, 0.18),
+				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow: -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  -gtk-icon-shadow: -0.2px  0px alpha(#ffffff, 0.2),
+				  0.2px  0px alpha(#ffffff, 0.2),
+				  0px  0.2px alpha(#ffffff, 0.4),
+				  0px -0.2px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.10),
 				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.10),
@@ -1024,25 +1024,25 @@ notebook > header > tabs > arrow:active,
  
 notebook > header > tabs > arrow:checked{ 
 
-  text-shadow:  -0.5px  0px alpha(#ffffff, 0.25),
-				  0.5px  0px alpha(#ffffff, 0.25),
-				  0px  0.5px alpha(#ffffff, 0.25),
-				  0px -0.5px alpha(#ffffff, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ffffff, 0.25),
+				  0.2px  0px alpha(#ffffff, 0.25),
+				  0px  0.2px alpha(#ffffff, 0.25),
+				  0px -0.2px alpha(#ffffff, 0.25),
 				  0px -1px alpha(#000000, 0.18),
-				  0px  1px alpha(#000000, 0.18),
+				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow: -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  -gtk-icon-shadow: -0.2px  0px alpha(#ffffff, 0.2),
+				  0.2px  0px alpha(#ffffff, 0.2),
+				  0px  0.2px alpha(#ffffff, 0.4),
+				  0px -0.2px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.10),
 				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.10),
 				 -1px  0px alpha(#000000, 0.10); 
   color: #ffffff; 
   outline-color: rgba(46, 52, 54, 0.3); 
-  border-color: #454545;
+  border-color: #393939;
   border-bottom-color: #323232;
   background-image:linear-gradient(to bottom,#494949,#595959);
   box-shadow: inset 0 1px rgba(255, 255, 255, 0);  
@@ -1061,23 +1061,23 @@ button.flat:disabled{
 notebook > header > tabs > arrow:disabled, 
 button:disabled{ 
 color: #8b8b8b;
-  text-shadow:  -0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  text-shadow:  -0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  border-color: #454545;
+  border-color: #393939;
   border-bottom-color: #323232;
   background-image: linear-gradient(to top,#494949,#595959);
   /*background-image: image(transparent); */
@@ -1086,18 +1086,18 @@ color: #8b8b8b;
 headerbar button{
 
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -1111,18 +1111,18 @@ headerbar button{
 headerbar button:hover { 
 
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -1138,18 +1138,18 @@ headerbar button:selected,
 headerbar button:active{
 
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -1163,18 +1163,18 @@ headerbar button:active{
 
 headerbar button:disabled { 
   color: #8b8b8b;
-  text-shadow:  -0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  text-shadow:  -0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -1191,18 +1191,18 @@ button:disabled label,
 button:disabled { 
 
   color: #8b8b8b;
-  text-shadow:  -0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  text-shadow:  -0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -1214,23 +1214,23 @@ button:disabled:active,
 button:disabled:checked { 
   
   color: #8b8b8b;
-  text-shadow:  -0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  text-shadow:  -0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  border-color: #454545;
+  border-color: #393939;
   border-bottom-color: #323232;
   background-image: linear-gradient(to bottom,#494949,#595959);
   box-shadow: inset 0 1px rgba(255, 255, 255, 0); }
@@ -1245,18 +1245,18 @@ button:disabled:checked label,
 button:disabled:checked { 
 
   color: #8b8b8b;
-  text-shadow:  -0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  text-shadow:  -0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -1312,24 +1312,24 @@ button.osd {
   min-width: 1.7875rem;/*26px;*/ 
   min-height: 2.2rem;/*32px;*/ 
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
   border-radius: 0.34375rem;/*4.66px;*/ 
-  border-color: #454545;
+  border-color: #393939;
   border-bottom-color: #323232; 
   background-color: transparent; 
   background-image: linear-gradient(to top,#494949,#595959);
@@ -1347,18 +1347,18 @@ button.osd:hover {
   border-bottom-color: #353535; 
   background-image: linear-gradient(to top,#595959,#626262);
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -1373,18 +1373,18 @@ button.osd:checked {
   border-color: #484848; 
   border-bottom-color: #353535;
   background-image: linear-gradient(to bottom,#494949,#595959);
-  text-shadow:  -0.5px  0px alpha(#ffffff, 0.25),
-				  0.5px  0px alpha(#ffffff, 0.25),
-				  0px  0.5px alpha(#ffffff, 0.25),
-				  0px -0.5px alpha(#ffffff, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ffffff, 0.25),
+				  0.2px  0px alpha(#ffffff, 0.25),
+				  0px  0.2px alpha(#ffffff, 0.25),
+				  0px -0.2px alpha(#ffffff, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow: -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  -gtk-icon-shadow: -0.2px  0px alpha(#ffffff, 0.2),
+				  0.2px  0px alpha(#ffffff, 0.2),
+				  0px  0.2px alpha(#ffffff, 0.4),
+				  0px -0.2px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.10),
 				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.10),
@@ -1396,24 +1396,24 @@ button.osd:checked {
 button.osd:disabled { 
 
   color: #8b8b8b;
-  text-shadow:  -0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  text-shadow:  -0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
   border-radius: 0.34375rem;/*4.66px;*/ 
-  border-color: #454545;
+  border-color: #393939;
   border-bottom-color: #323232; 
   background-color: transparent; 
   background-image: linear-gradient(to top,#494949,#595959);
@@ -1434,18 +1434,18 @@ popover.background.magnifier button,
   background-image: linear-gradient(to top,#595959,#626262);
   -gtk-icon-effect: highlight; 
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -1464,18 +1464,18 @@ popover.background.magnifier button:hover,
   background-image: linear-gradient(to top,#595959,#626262);
   -gtk-icon-effect: highlight; 
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -1495,18 +1495,18 @@ popover.background.magnifier button:checked,
   border-bottom-color: #353535;
   background-image: linear-gradient(to bottom,#494949,#595959);
   color: white; 
-  text-shadow:  -0.5px  0px alpha(#ffffff, 0.25),
-				  0.5px  0px alpha(#ffffff, 0.25),
-				  0px  0.5px alpha(#ffffff, 0.25),
-				  0px -0.5px alpha(#ffffff, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ffffff, 0.25),
+				  0.2px  0px alpha(#ffffff, 0.25),
+				  0px  0.2px alpha(#ffffff, 0.25),
+				  0px -0.2px alpha(#ffffff, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow: -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  -gtk-icon-shadow: -0.2px  0px alpha(#ffffff, 0.2),
+				  0.2px  0px alpha(#ffffff, 0.2),
+				  0px  0.2px alpha(#ffffff, 0.4),
+				  0px -0.2px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.10),
 				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.10),
@@ -1521,24 +1521,24 @@ popover.background.magnifier button:disabled,
 .osd button:disabled { 
 
   color: #8b8b8b;
-  text-shadow:  -0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  text-shadow:  -0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18); 
   border-radius: 0.34375rem;/*4.66px;*/ 
-  border-color: #454545;
+  border-color: #393939;
   border-bottom-color: #323232; 
   background-color: transparent; 
   background-image: linear-gradient(to top,#494949,#595959);
@@ -1552,18 +1552,18 @@ popover.background.magnifier button.flat,
 .osd button.flat { 
 
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -1584,18 +1584,18 @@ popover.background.magnifier button.flat:hover,
   background-image: linear-gradient(to top,#595959,#626262);
   -gtk-icon-effect: highlight; 
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -1610,18 +1610,18 @@ popover.background.magnifier button.flat:disabled,
 .osd button.flat:disabled { 
 
  color: #8b8b8b;
-  text-shadow:  -0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  text-shadow:  -0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -1644,18 +1644,18 @@ popover.background.magnifier button.flat:checked,
   border-bottom-color: #353535;
   background-image: linear-gradient(to bottom,#494949,#595959);
   color: white; 
-  text-shadow:  -0.5px  0px alpha(#ffffff, 0.25),
-				  0.5px  0px alpha(#ffffff, 0.25),
-				  0px  0.5px alpha(#ffffff, 0.25),
-				  0px -0.5px alpha(#ffffff, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ffffff, 0.25),
+				  0.2px  0px alpha(#ffffff, 0.25),
+				  0px  0.2px alpha(#ffffff, 0.25),
+				  0px -0.2px alpha(#ffffff, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow: -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  -gtk-icon-shadow: -0.2px  0px alpha(#ffffff, 0.2),
+				  0.2px  0px alpha(#ffffff, 0.2),
+				  0px  0.2px alpha(#ffffff, 0.4),
+				  0px -0.2px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.10),
 				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.10),
@@ -1667,18 +1667,18 @@ popover.background.magnifier button.flat:checked,
 button.suggested-action { 
 
   color: white;
-  text-shadow:  -0.5px  0px alpha(#ffffff, 0.25),
-				  0.5px  0px alpha(#ffffff, 0.25),
-				  0px  0.5px alpha(#ffffff, 0.25),
-				  0px -0.5px alpha(#ffffff, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ffffff, 0.25),
+				  0.2px  0px alpha(#ffffff, 0.25),
+				  0px  0.2px alpha(#ffffff, 0.25),
+				  0px -0.2px alpha(#ffffff, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow: -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  -gtk-icon-shadow: -0.2px  0px alpha(#ffffff, 0.2),
+				  0.2px  0px alpha(#ffffff, 0.2),
+				  0px  0.2px alpha(#ffffff, 0.4),
+				  0px -0.2px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.10),
 				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.10),
@@ -1698,18 +1698,18 @@ headerbar button.suggested-action {
 headerbar button.suggested-action:disabled {
 
   color: rgba(255,255,255,0.74);
-text-shadow:  -0.5px  0px rgba(255,255,255,0.74),
-				  0.5px  0px rgba(255,255,255,0.74),
-				  0px  0.5px rgba(255,255,255,0.74),
-				  0px -0.5px rgba(255,255,255,0.74),
+text-shadow:  -0.2px  0px rgba(255,255,255,0.74),
+				  0.2px  0px rgba(255,255,255,0.74),
+				  0px  0.2px rgba(255,255,255,0.74),
+				  0px -0.2px rgba(255,255,255,0.74),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px rgba(255,255,255,0.74),
-				  0.5px  0px rgba(255,255,255,0.74),
-				  0px  0.5px rgba(255,255,255,0.74),
-				  0px -0.5px rgba(255,255,255,0.74),
+  -gtk-icon-shadow:-0.2px  0px rgba(255,255,255,0.74),
+				  0.2px  0px rgba(255,255,255,0.74),
+				  0px  0.2px rgba(255,255,255,0.74),
+				  0px -0.2px rgba(255,255,255,0.74),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -1732,18 +1732,18 @@ button.suggested-action.flat {
 button.suggested-action:hover { 
 
   color: white; 
-  text-shadow:  -0.5px  0px alpha(#ffffff, 0.25),
-				  0.5px  0px alpha(#ffffff, 0.25),
-				  0px  0.5px alpha(#ffffff, 0.25),
-				  0px -0.5px alpha(#ffffff, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ffffff, 0.25),
+				  0.2px  0px alpha(#ffffff, 0.25),
+				  0px  0.2px alpha(#ffffff, 0.25),
+				  0px -0.2px alpha(#ffffff, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow: -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  -gtk-icon-shadow: -0.2px  0px alpha(#ffffff, 0.2),
+				  0.2px  0px alpha(#ffffff, 0.2),
+				  0px  0.2px alpha(#ffffff, 0.4),
+				  0px -0.2px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.10),
 				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.10),
@@ -1759,18 +1759,18 @@ button.suggested-action:active,
 button.suggested-action:checked { 
 
   color: white; 
-  text-shadow:  -0.5px  0px alpha(#ffffff, 0.25),
-				  0.5px  0px alpha(#ffffff, 0.25),
-				  0px  0.5px alpha(#ffffff, 0.25),
-				  0px -0.5px alpha(#ffffff, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ffffff, 0.25),
+				  0.2px  0px alpha(#ffffff, 0.25),
+				  0px  0.2px alpha(#ffffff, 0.25),
+				  0px -0.2px alpha(#ffffff, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow: -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  -gtk-icon-shadow: -0.2px  0px alpha(#ffffff, 0.2),
+				  0.2px  0px alpha(#ffffff, 0.2),
+				  0px  0.2px alpha(#ffffff, 0.4),
+				  0px -0.2px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.10),
 				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.10),
@@ -1788,18 +1788,18 @@ button.suggested-action:checked {
   background-image: none; 
   box-shadow: inset 0 1px rgba(255, 255, 255, 0); 
   color: rgba(255,255,255,0.74);
-text-shadow:  -0.5px  0px rgba(255,255,255,0.74),
-				  0.5px  0px rgba(255,255,255,0.74),
-				  0px  0.5px rgba(255,255,255,0.74),
-				  0px -0.5px rgba(255,255,255,0.74),
+text-shadow:  -0.2px  0px rgba(255,255,255,0.74),
+				  0.2px  0px rgba(255,255,255,0.74),
+				  0px  0.2px rgba(255,255,255,0.74),
+				  0px -0.2px rgba(255,255,255,0.74),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px rgba(255,255,255,0.74),
-				  0.5px  0px rgba(255,255,255,0.74),
-				  0px  0.5px rgba(255,255,255,0.74),
-				  0px -0.5px rgba(255,255,255,0.74),
+  -gtk-icon-shadow:-0.2px  0px rgba(255,255,255,0.74),
+				  0.2px  0px rgba(255,255,255,0.74),
+				  0px  0.2px rgba(255,255,255,0.74),
+				  0px -0.2px rgba(255,255,255,0.74),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -1808,18 +1808,18 @@ text-shadow:  -0.5px  0px rgba(255,255,255,0.74),
 button.suggested-action:disabled {
 
   color: rgba(255,255,255,0.74);
-text-shadow:  -0.5px  0px rgba(255,255,255,0.74),
-				  0.5px  0px rgba(255,255,255,0.74),
-				  0px  0.5px rgba(255,255,255,0.74),
-				  0px -0.5px rgba(255,255,255,0.74),
+text-shadow:  -0.2px  0px rgba(255,255,255,0.74),
+				  0.2px  0px rgba(255,255,255,0.74),
+				  0px  0.2px rgba(255,255,255,0.74),
+				  0px -0.2px rgba(255,255,255,0.74),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px rgba(255,255,255,0.74),
-				  0.5px  0px rgba(255,255,255,0.74),
-				  0px  0.5px rgba(255,255,255,0.74),
-				  0px -0.5px rgba(255,255,255,0.74),
+  -gtk-icon-shadow:-0.2px  0px rgba(255,255,255,0.74),
+				  0.2px  0px rgba(255,255,255,0.74),
+				  0px  0.2px rgba(255,255,255,0.74),
+				  0px -0.2px rgba(255,255,255,0.74),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -1833,18 +1833,18 @@ button.suggested-action:disabled label,
 button.suggested-action:disabled { 
 
   color: rgba(255,255,255,0.74);
-text-shadow:  -0.5px  0px rgba(255,255,255,0.74),
-				  0.5px  0px rgba(255,255,255,0.74),
-				  0px  0.5px rgba(255,255,255,0.74),
-				  0px -0.5px rgba(255,255,255,0.74),
+text-shadow:  -0.2px  0px rgba(255,255,255,0.74),
+				  0.2px  0px rgba(255,255,255,0.74),
+				  0px  0.2px rgba(255,255,255,0.74),
+				  0px -0.2px rgba(255,255,255,0.74),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px rgba(255,255,255,0.74),
-				  0.5px  0px rgba(255,255,255,0.74),
-				  0px  0.5px rgba(255,255,255,0.74),
-				  0px -0.5px rgba(255,255,255,0.74),
+  -gtk-icon-shadow:-0.2px  0px rgba(255,255,255,0.74),
+				  0.2px  0px rgba(255,255,255,0.74),
+				  0px  0.2px rgba(255,255,255,0.74),
+				  0px -0.2px rgba(255,255,255,0.74),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -1864,18 +1864,18 @@ button.suggested-action:disabled:checked label,
 button.suggested-action:disabled:checked { 
 
 color: rgba(255,255,255,0.74);
-text-shadow:  -0.5px  0px rgba(255,255,255,0.74),
-				  0.5px  0px rgba(255,255,255,0.74),
-				  0px  0.5px rgba(255,255,255,0.74),
-				  0px -0.5px rgba(255,255,255,0.74),
+text-shadow:  -0.2px  0px rgba(255,255,255,0.74),
+				  0.2px  0px rgba(255,255,255,0.74),
+				  0px  0.2px rgba(255,255,255,0.74),
+				  0px -0.2px rgba(255,255,255,0.74),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px rgba(255,255,255,0.74),
-				  0.5px  0px rgba(255,255,255,0.74),
-				  0px  0.5px rgba(255,255,255,0.74),
-				  0px -0.5px rgba(255,255,255,0.74),
+  -gtk-icon-shadow:-0.2px  0px rgba(255,255,255,0.74),
+				  0.2px  0px rgba(255,255,255,0.74),
+				  0px  0.2px rgba(255,255,255,0.74),
+				  0px -0.2px rgba(255,255,255,0.74),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -1883,18 +1883,18 @@ text-shadow:  -0.5px  0px rgba(255,255,255,0.74),
 
 .osd button.suggested-action { 
 
-  text-shadow:  -0.5px  0px alpha(#ffffff, 0.25),
-				  0.5px  0px alpha(#ffffff, 0.25),
-				  0px  0.5px alpha(#ffffff, 0.25),
-				  0px -0.5px alpha(#ffffff, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ffffff, 0.25),
+				  0.2px  0px alpha(#ffffff, 0.25),
+				  0px  0.2px alpha(#ffffff, 0.25),
+				  0px -0.2px alpha(#ffffff, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow: -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  -gtk-icon-shadow: -0.2px  0px alpha(#ffffff, 0.2),
+				  0.2px  0px alpha(#ffffff, 0.2),
+				  0px  0.2px alpha(#ffffff, 0.4),
+				  0px -0.2px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.10),
 				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.10),
@@ -1907,18 +1907,18 @@ text-shadow:  -0.5px  0px rgba(255,255,255,0.74),
 
 .osd button.suggested-action:hover { 
 
-  text-shadow:  -0.5px  0px alpha(#ffffff, 0.25),
-				  0.5px  0px alpha(#ffffff, 0.25),
-				  0px  0.5px alpha(#ffffff, 0.25),
-				  0px -0.5px alpha(#ffffff, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ffffff, 0.25),
+				  0.2px  0px alpha(#ffffff, 0.25),
+				  0px  0.2px alpha(#ffffff, 0.25),
+				  0px -0.2px alpha(#ffffff, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow: -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  -gtk-icon-shadow: -0.2px  0px alpha(#ffffff, 0.2),
+				  0.2px  0px alpha(#ffffff, 0.2),
+				  0px  0.2px alpha(#ffffff, 0.4),
+				  0px -0.2px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.10),
 				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.10),
@@ -1934,18 +1934,18 @@ text-shadow:  -0.5px  0px rgba(255,255,255,0.74),
 .osd button.suggested-action:active, 
 .osd button.suggested-action:checked { 
 
-  text-shadow:  -0.5px  0px alpha(#ffffff, 0.25),
-				  0.5px  0px alpha(#ffffff, 0.25),
-				  0px  0.5px alpha(#ffffff, 0.25),
-				  0px -0.5px alpha(#ffffff, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ffffff, 0.25),
+				  0.2px  0px alpha(#ffffff, 0.25),
+				  0px  0.2px alpha(#ffffff, 0.25),
+				  0px -0.2px alpha(#ffffff, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow: -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  -gtk-icon-shadow: -0.2px  0px alpha(#ffffff, 0.2),
+				  0.2px  0px alpha(#ffffff, 0.2),
+				  0px  0.2px alpha(#ffffff, 0.4),
+				  0px -0.2px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.10),
 				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.10),
@@ -1960,18 +1960,18 @@ text-shadow:  -0.5px  0px rgba(255,255,255,0.74),
 .osd button.suggested-action:disabled { 
 
   color: rgba(255,255,255,0.74);
-text-shadow:  -0.5px  0px rgba(255,255,255,0.74),
-				  0.5px  0px rgba(255,255,255,0.74),
-				  0px  0.5px rgba(255,255,255,0.74),
-				  0px -0.5px rgba(255,255,255,0.74),
+text-shadow:  -0.2px  0px rgba(255,255,255,0.74),
+				  0.2px  0px rgba(255,255,255,0.74),
+				  0px  0.2px rgba(255,255,255,0.74),
+				  0px -0.2px rgba(255,255,255,0.74),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px rgba(255,255,255,0.74),
-				  0.5px  0px rgba(255,255,255,0.74),
-				  0px  0.5px rgba(255,255,255,0.74),
-				  0px -0.5px rgba(255,255,255,0.74),
+  -gtk-icon-shadow:-0.2px  0px rgba(255,255,255,0.74),
+				  0.2px  0px rgba(255,255,255,0.74),
+				  0px  0.2px rgba(255,255,255,0.74),
+				  0px -0.2px rgba(255,255,255,0.74),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -1984,18 +1984,18 @@ text-shadow:  -0.5px  0px rgba(255,255,255,0.74),
 button.destructive-action { 
 
   color: white; 
-  text-shadow:  -0.5px  0px alpha(#ffffff, 0.25),
-				  0.5px  0px alpha(#ffffff, 0.25),
-				  0px  0.5px alpha(#ffffff, 0.25),
-				  0px -0.5px alpha(#ffffff, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ffffff, 0.25),
+				  0.2px  0px alpha(#ffffff, 0.25),
+				  0px  0.2px alpha(#ffffff, 0.25),
+				  0px -0.2px alpha(#ffffff, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow: -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  -gtk-icon-shadow: -0.2px  0px alpha(#ffffff, 0.2),
+				  0.2px  0px alpha(#ffffff, 0.2),
+				  0px  0.2px alpha(#ffffff, 0.4),
+				  0px -0.2px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.10),
 				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.10),
@@ -2013,18 +2013,18 @@ button.destructive-action.flat {
   background-image: none; 
   box-shadow: inset 0 1px rgba(255, 255, 255, 0); 
   color: rgba(255,255,255,0.74);
-text-shadow:  -0.5px  0px rgba(255,255,255,0.74),
-				  0.5px  0px rgba(255,255,255,0.74),
-				  0px  0.5px rgba(255,255,255,0.74),
-				  0px -0.5px rgba(255,255,255,0.74),
+text-shadow:  -0.2px  0px rgba(255,255,255,0.74),
+				  0.2px  0px rgba(255,255,255,0.74),
+				  0px  0.2px rgba(255,255,255,0.74),
+				  0px -0.2px rgba(255,255,255,0.74),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px rgba(255,255,255,0.74),
-				  0.5px  0px rgba(255,255,255,0.74),
-				  0px  0.5px rgba(255,255,255,0.74),
-				  0px -0.5px rgba(255,255,255,0.74),
+  -gtk-icon-shadow:-0.2px  0px rgba(255,255,255,0.74),
+				  0.2px  0px rgba(255,255,255,0.74),
+				  0px  0.2px rgba(255,255,255,0.74),
+				  0px -0.2px rgba(255,255,255,0.74),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -2033,18 +2033,18 @@ text-shadow:  -0.5px  0px rgba(255,255,255,0.74),
 button.destructive-action:hover { 
 
   color: white; 
-   text-shadow:  -0.5px  0px alpha(#ffffff, 0.25),
-				  0.5px  0px alpha(#ffffff, 0.25),
-				  0px  0.5px alpha(#ffffff, 0.25),
-				  0px -0.5px alpha(#ffffff, 0.25),
+   text-shadow:  -0.2px  0px alpha(#ffffff, 0.25),
+				  0.2px  0px alpha(#ffffff, 0.25),
+				  0px  0.2px alpha(#ffffff, 0.25),
+				  0px -0.2px alpha(#ffffff, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow: -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  -gtk-icon-shadow: -0.2px  0px alpha(#ffffff, 0.2),
+				  0.2px  0px alpha(#ffffff, 0.2),
+				  0px  0.2px alpha(#ffffff, 0.4),
+				  0px -0.2px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.10),
 				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.10),
@@ -2059,18 +2059,18 @@ button.destructive-action:active,
 button.destructive-action:checked { 
 
   color: white; 
-   text-shadow:  -0.5px  0px alpha(#ffffff, 0.25),
-				  0.5px  0px alpha(#ffffff, 0.25),
-				  0px  0.5px alpha(#ffffff, 0.25),
-				  0px -0.5px alpha(#ffffff, 0.25),
+   text-shadow:  -0.2px  0px alpha(#ffffff, 0.25),
+				  0.2px  0px alpha(#ffffff, 0.25),
+				  0px  0.2px alpha(#ffffff, 0.25),
+				  0px -0.2px alpha(#ffffff, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow: -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  -gtk-icon-shadow: -0.2px  0px alpha(#ffffff, 0.2),
+				  0.2px  0px alpha(#ffffff, 0.2),
+				  0px  0.2px alpha(#ffffff, 0.4),
+				  0px -0.2px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.10),
 				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.10),
@@ -2090,18 +2090,18 @@ button.destructive-action.flat:disabled {
   text-shadow: none; 
   -gtk-icon-shadow: none; 
   color: rgba(255,255,255,0.74);
-text-shadow:  -0.5px  0px rgba(255,255,255,0.74),
-				  0.5px  0px rgba(255,255,255,0.74),
-				  0px  0.5px rgba(255,255,255,0.74),
-				  0px -0.5px rgba(255,255,255,0.74),
+text-shadow:  -0.2px  0px rgba(255,255,255,0.74),
+				  0.2px  0px rgba(255,255,255,0.74),
+				  0px  0.2px rgba(255,255,255,0.74),
+				  0px -0.2px rgba(255,255,255,0.74),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px rgba(255,255,255,0.74),
-				  0.5px  0px rgba(255,255,255,0.74),
-				  0px  0.5px rgba(255,255,255,0.74),
-				  0px -0.5px rgba(255,255,255,0.74),
+  -gtk-icon-shadow:-0.2px  0px rgba(255,255,255,0.74),
+				  0.2px  0px rgba(255,255,255,0.74),
+				  0px  0.2px rgba(255,255,255,0.74),
+				  0px -0.2px rgba(255,255,255,0.74),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -2119,18 +2119,18 @@ button.destructive-action:disabled label,
 button.destructive-action:disabled { 
 
   color: rgba(255,255,255,0.74);
-text-shadow:  -0.5px  0px rgba(255,255,255,0.74),
-				  0.5px  0px rgba(255,255,255,0.74),
-				  0px  0.5px rgba(255,255,255,0.74),
-				  0px -0.5px rgba(255,255,255,0.74),
+text-shadow:  -0.2px  0px rgba(255,255,255,0.74),
+				  0.2px  0px rgba(255,255,255,0.74),
+				  0px  0.2px rgba(255,255,255,0.74),
+				  0px -0.2px rgba(255,255,255,0.74),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px rgba(255,255,255,0.74),
-				  0.5px  0px rgba(255,255,255,0.74),
-				  0px  0.5px rgba(255,255,255,0.74),
-				  0px -0.5px rgba(255,255,255,0.74),
+  -gtk-icon-shadow:-0.2px  0px rgba(255,255,255,0.74),
+				  0.2px  0px rgba(255,255,255,0.74),
+				  0px  0.2px rgba(255,255,255,0.74),
+				  0px -0.2px rgba(255,255,255,0.74),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -2149,18 +2149,18 @@ button.destructive-action:disabled:checked label,
 button.destructive-action:disabled:checked { 
 
   color: rgba(255,255,255,0.74);
-text-shadow:  -0.5px  0px rgba(255,255,255,0.74),
-				  0.5px  0px rgba(255,255,255,0.74),
-				  0px  0.5px rgba(255,255,255,0.74),
-				  0px -0.5px rgba(255,255,255,0.74),
+text-shadow:  -0.2px  0px rgba(255,255,255,0.74),
+				  0.2px  0px rgba(255,255,255,0.74),
+				  0px  0.2px rgba(255,255,255,0.74),
+				  0px -0.2px rgba(255,255,255,0.74),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px rgba(255,255,255,0.74),
-				  0.5px  0px rgba(255,255,255,0.74),
-				  0px  0.5px rgba(255,255,255,0.74),
-				  0px -0.5px rgba(255,255,255,0.74),
+  -gtk-icon-shadow:-0.2px  0px rgba(255,255,255,0.74),
+				  0.2px  0px rgba(255,255,255,0.74),
+				  0px  0.2px rgba(255,255,255,0.74),
+				  0px -0.2px rgba(255,255,255,0.74),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -2168,18 +2168,18 @@ text-shadow:  -0.5px  0px rgba(255,255,255,0.74),
 
 .osd button.destructive-action { 
 
-  text-shadow:  -0.5px  0px alpha(#ffffff, 0.25),
-				  0.5px  0px alpha(#ffffff, 0.25),
-				  0px  0.5px alpha(#ffffff, 0.25),
-				  0px -0.5px alpha(#ffffff, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ffffff, 0.25),
+				  0.2px  0px alpha(#ffffff, 0.25),
+				  0px  0.2px alpha(#ffffff, 0.25),
+				  0px -0.2px alpha(#ffffff, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow: -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  -gtk-icon-shadow: -0.2px  0px alpha(#ffffff, 0.2),
+				  0.2px  0px alpha(#ffffff, 0.2),
+				  0px  0.2px alpha(#ffffff, 0.4),
+				  0px -0.2px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.10),
 				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.10),
@@ -2194,18 +2194,18 @@ text-shadow:  -0.5px  0px rgba(255,255,255,0.74),
 
 .osd button.destructive-action:hover { 
 
-  text-shadow:  -0.5px  0px alpha(#ffffff, 0.25),
-				  0.5px  0px alpha(#ffffff, 0.25),
-				  0px  0.5px alpha(#ffffff, 0.25),
-				  0px -0.5px alpha(#ffffff, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ffffff, 0.25),
+				  0.2px  0px alpha(#ffffff, 0.25),
+				  0px  0.2px alpha(#ffffff, 0.25),
+				  0px -0.2px alpha(#ffffff, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow: -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  -gtk-icon-shadow: -0.2px  0px alpha(#ffffff, 0.2),
+				  0.2px  0px alpha(#ffffff, 0.2),
+				  0px  0.2px alpha(#ffffff, 0.4),
+				  0px -0.2px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.10),
 				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.10),
@@ -2220,18 +2220,18 @@ text-shadow:  -0.5px  0px rgba(255,255,255,0.74),
 .osd button.destructive-action:active, 
 .osd button.destructive-action:checked { 
 
-  text-shadow:  -0.5px  0px alpha(#ffffff, 0.25),
-				  0.5px  0px alpha(#ffffff, 0.25),
-				  0px  0.5px alpha(#ffffff, 0.25),
-				  0px -0.5px alpha(#ffffff, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ffffff, 0.25),
+				  0.2px  0px alpha(#ffffff, 0.25),
+				  0px  0.2px alpha(#ffffff, 0.25),
+				  0px -0.2px alpha(#ffffff, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow: -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  -gtk-icon-shadow: -0.2px  0px alpha(#ffffff, 0.2),
+				  0.2px  0px alpha(#ffffff, 0.2),
+				  0px  0.2px alpha(#ffffff, 0.4),
+				  0px -0.2px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.10),
 				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.10),
@@ -2247,18 +2247,18 @@ text-shadow:  -0.5px  0px rgba(255,255,255,0.74),
 .osd button.destructive-action:disabled { 
 
   color: rgba(255,255,255,0.74);
-text-shadow:  -0.5px  0px rgba(255,255,255,0.74),
-				  0.5px  0px rgba(255,255,255,0.74),
-				  0px  0.5px rgba(255,255,255,0.74),
-				  0px -0.5px rgba(255,255,255,0.74),
+text-shadow:  -0.2px  0px rgba(255,255,255,0.74),
+				  0.2px  0px rgba(255,255,255,0.74),
+				  0px  0.2px rgba(255,255,255,0.74),
+				  0px -0.2px rgba(255,255,255,0.74),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px rgba(255,255,255,0.74),
-				  0.5px  0px rgba(255,255,255,0.74),
-				  0px  0.5px rgba(255,255,255,0.74),
-				  0px -0.5px rgba(255,255,255,0.74),
+  -gtk-icon-shadow:-0.2px  0px rgba(255,255,255,0.74),
+				  0.2px  0px rgba(255,255,255,0.74),
+				  0px  0.2px rgba(255,255,255,0.74),
+				  0px -0.2px rgba(255,255,255,0.74),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -2376,18 +2376,18 @@ stacksidebar row.needs-attention > label:dir(rtl) {
 .inline-toolbar toolbutton > button { 
 
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -2400,18 +2400,18 @@ stacksidebar row.needs-attention > label:dir(rtl) {
 .inline-toolbar toolbutton > button:hover { 
 
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -2426,18 +2426,18 @@ stacksidebar row.needs-attention > label:dir(rtl) {
 .inline-toolbar toolbutton > button:checked { 
 
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -2461,18 +2461,18 @@ stacksidebar row.needs-attention > label:dir(rtl) {
 .inline-toolbar toolbutton > button:disabled { 
 
   color: #8b8b8b;
-  text-shadow:  -0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  text-shadow:  -0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -2492,18 +2492,18 @@ stacksidebar row.needs-attention > label:dir(rtl) {
 .inline-toolbar toolbutton > button:disabled:checked { 
 
   color: #8b8b8b;
-  text-shadow:  -0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  text-shadow:  -0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -2638,20 +2638,20 @@ modelbutton.flat,
 .menuitem.button.flat { 
 
 color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
-				  0px  1px alpha(#000000, 0.18),
+				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
-				  0px  1px alpha(#000000, 0.18),
+				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
 
@@ -2665,20 +2665,20 @@ modelbutton.flat:hover,
 .menuitem.button.flat:hover { 
 
    color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
-				  0px  1px alpha(#000000, 0.18),
+				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
-				  0px  1px alpha(#000000, 0.18),
+				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
   background-image:linear-gradient(to right,rgba(255,255,255,0.1),rgba(255,255,255,0.13),rgba(255,255,255,0.13),rgba(1255,255,255,0.1));}
@@ -2733,18 +2733,18 @@ button.color:checked colorswatch:only-child {
 list row button {
 
    color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
-				  0px  1px alpha(#000000, 0.18),
+				  0px  1px alpha(#000000, 0.40),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -2752,24 +2752,24 @@ list row button {
 				 
   border-radius: 0.34375rem;/*4.66px*/
   background-image: linear-gradient(to top,#595959,#626262);
-  border-color: #484848; 
+  border-color: #393939; 
   border-bottom-color: #353535;}
   
 list row button:active {
 
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
-				  0px  1px alpha(#000000, 0.18),
+				  0px  1px alpha(#000000, 0.40),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -2914,18 +2914,18 @@ spinbutton:not(.vertical) button:dir(rtl) {
 spinbutton:not(.vertical) button:hover { 
 
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -2958,18 +2958,18 @@ spinbutton:not(.vertical) button:dir(rtl):first-child {
   text-shadow: none; 
   -gtk-icon-shadow: none; 
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -2993,18 +2993,18 @@ spinbutton:not(.vertical) button:dir(rtl):first-child {
   text-shadow: none; 
   -gtk-icon-shadow: none; 
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -3021,18 +3021,18 @@ spinbutton:not(.vertical) button:dir(rtl):first-child {
   background-image: none; 
   box-shadow: inset 0 1px rgba(255, 255, 255, 0);
   color: #8b8b8b;
-  text-shadow:  -0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  text-shadow:  -0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -3052,18 +3052,18 @@ spinbutton:not(.vertical) button:dir(rtl):first-child {
 spinbutton.vertical:disabled { 
 
   color: #8b8b8b;
-  text-shadow:  -0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  text-shadow:  -0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -3161,18 +3161,18 @@ treeview spinbutton:not(.vertical) entry {
 combobox arrow { 
   
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -3313,18 +3313,18 @@ headerbar {
  .titlebar:not(headerbar) .title, 
 headerbar .title { 
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -3336,18 +3336,18 @@ headerbar .title {
 .titlebar:not(headerbar) .subtitle, 
 headerbar .subtitle { 
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -3359,14 +3359,14 @@ headerbar .subtitle {
 .titlebar:not(headerbar) .title:backdrop, 
 headerbar .title:backdrop { 
 
-  text-shadow: none;
-  opacity:0.5;}
+  /*text-shadow: none;*/
+  opacity:0.65;}
 
 .titlebar:not(headerbar) .subtitle:backdrop, 
 headerbar .subtitle:backdrop { 
 
-  text-shadow: none;
-  opacity:0.5; }
+ /* text-shadow: none;*/
+  opacity:0.65; }
 
 .selection-mode .titlebar:not(headerbar), 
 .selection-mode.titlebar:not(headerbar), 
@@ -3374,18 +3374,18 @@ headerbar .subtitle:backdrop {
 headerbar.selection-mode { 
 
   color: #ffffff;
-  text-shadow:  -0.5px  0px alpha(#ffffff, 0.25),
-				  0.5px  0px alpha(#ffffff, 0.25),
-				  0px  0.5px alpha(#ffffff, 0.25),
-				  0px -0.5px alpha(#ffffff, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ffffff, 0.25),
+				  0.2px  0px alpha(#ffffff, 0.25),
+				  0px  0.2px alpha(#ffffff, 0.25),
+				  0px -0.2px alpha(#ffffff, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow: -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  -gtk-icon-shadow: -0.2px  0px alpha(#ffffff, 0.2),
+				  0.2px  0px alpha(#ffffff, 0.2),
+				  0px  0.2px alpha(#ffffff, 0.4),
+				  0px -0.2px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.10),
 				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.10),
@@ -3399,18 +3399,18 @@ headerbar.selection-mode {
  headerbar.selection-mode button { 
  
   color: #ffffff; 
-  text-shadow:  -0.5px  0px alpha(#ffffff, 0.25),
-				  0.5px  0px alpha(#ffffff, 0.25),
-				  0px  0.5px alpha(#ffffff, 0.25),
-				  0px -0.5px alpha(#ffffff, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ffffff, 0.25),
+				  0.2px  0px alpha(#ffffff, 0.25),
+				  0px  0.2px alpha(#ffffff, 0.25),
+				  0px -0.2px alpha(#ffffff, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow: -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  -gtk-icon-shadow: -0.2px  0px alpha(#ffffff, 0.2),
+				  0.2px  0px alpha(#ffffff, 0.2),
+				  0px  0.2px alpha(#ffffff, 0.4),
+				  0px -0.2px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.10),
 				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.10),
@@ -3437,18 +3437,18 @@ headerbar.selection-mode button.flat {
 headerbar.selection-mode button:hover { 
 
   color: #ffffff; 
-  text-shadow:  -0.5px  0px alpha(#ffffff, 0.25),
-				  0.5px  0px alpha(#ffffff, 0.25),
-				  0px  0.5px alpha(#ffffff, 0.25),
-				  0px -0.5px alpha(#ffffff, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ffffff, 0.25),
+				  0.2px  0px alpha(#ffffff, 0.25),
+				  0px  0.2px alpha(#ffffff, 0.25),
+				  0px -0.2px alpha(#ffffff, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow: -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  -gtk-icon-shadow: -0.2px  0px alpha(#ffffff, 0.2),
+				  0.2px  0px alpha(#ffffff, 0.2),
+				  0px  0.2px alpha(#ffffff, 0.4),
+				  0px -0.2px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.10),
 				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.10),
@@ -3468,18 +3468,18 @@ headerbar.selection-mode button:active,
 headerbar.selection-mode button:checked { 
 
   color: #ffffff; 
-  text-shadow:  -0.5px  0px alpha(#ffffff, 0.25),
-				  0.5px  0px alpha(#ffffff, 0.25),
-				  0px  0.5px alpha(#ffffff, 0.25),
-				  0px -0.5px alpha(#ffffff, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ffffff, 0.25),
+				  0.2px  0px alpha(#ffffff, 0.25),
+				  0px  0.2px alpha(#ffffff, 0.25),
+				  0px -0.2px alpha(#ffffff, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow: -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  -gtk-icon-shadow: -0.2px  0px alpha(#ffffff, 0.2),
+				  0.2px  0px alpha(#ffffff, 0.2),
+				  0px  0.2px alpha(#ffffff, 0.4),
+				  0px -0.2px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.10),
 				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.10),
@@ -3548,18 +3548,18 @@ headerbar.selection-mode button:disabled:checked {
 .selection-mode headerbar button.suggested-action, 
 headerbar.selection-mode button.suggested-action { 
 
-   text-shadow:  -0.5px  0px alpha(#ffffff, 0.25),
-				  0.5px  0px alpha(#ffffff, 0.25),
-				  0px  0.5px alpha(#ffffff, 0.25),
-				  0px -0.5px alpha(#ffffff, 0.25),
+   text-shadow:  -0.2px  0px alpha(#ffffff, 0.25),
+				  0.2px  0px alpha(#ffffff, 0.25),
+				  0px  0.2px alpha(#ffffff, 0.25),
+				  0px -0.2px alpha(#ffffff, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow: -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  -gtk-icon-shadow: -0.2px  0px alpha(#ffffff, 0.2),
+				  0.2px  0px alpha(#ffffff, 0.2),
+				  0px  0.2px alpha(#ffffff, 0.4),
+				  0px -0.2px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.10),
 				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.10),
@@ -3577,18 +3577,18 @@ border-color: #030c17; }
 headerbar.selection-mode button.suggested-action:hover { 
 
   color: #ffffff;  
-     text-shadow:  -0.5px  0px alpha(#ffffff, 0.25),
-				  0.5px  0px alpha(#ffffff, 0.25),
-				  0px  0.5px alpha(#ffffff, 0.25),
-				  0px -0.5px alpha(#ffffff, 0.25),
+     text-shadow:  -0.2px  0px alpha(#ffffff, 0.25),
+				  0.2px  0px alpha(#ffffff, 0.25),
+				  0px  0.2px alpha(#ffffff, 0.25),
+				  0px -0.2px alpha(#ffffff, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow: -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  -gtk-icon-shadow: -0.2px  0px alpha(#ffffff, 0.2),
+				  0.2px  0px alpha(#ffffff, 0.2),
+				  0px  0.2px alpha(#ffffff, 0.4),
+				  0px -0.2px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.10),
 				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.10),
@@ -3606,18 +3606,18 @@ headerbar.selection-mode button.suggested-action:hover {
 headerbar.selection-mode button.suggested-action:active { 
 
   color: #ffffff;  
-     text-shadow:  -0.5px  0px alpha(#ffffff, 0.25),
-				  0.5px  0px alpha(#ffffff, 0.25),
-				  0px  0.5px alpha(#ffffff, 0.25),
-				  0px -0.5px alpha(#ffffff, 0.25),
+     text-shadow:  -0.2px  0px alpha(#ffffff, 0.25),
+				  0.2px  0px alpha(#ffffff, 0.25),
+				  0px  0.2px alpha(#ffffff, 0.25),
+				  0px -0.2px alpha(#ffffff, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow: -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  -gtk-icon-shadow: -0.2px  0px alpha(#ffffff, 0.2),
+				  0.2px  0px alpha(#ffffff, 0.2),
+				  0px  0.2px alpha(#ffffff, 0.4),
+				  0px -0.2px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.10),
 				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.10),
@@ -3649,18 +3649,18 @@ headerbar.selection-mode button.suggested-action:disabled label,
 headerbar.selection-mode button.suggested-action:disabled { 
 
   color: rgba(255,255,255,0.74);
-text-shadow:  -0.5px  0px rgba(255,255,255,0.74),
-				  0.5px  0px rgba(255,255,255,0.74),
-				  0px  0.5px rgba(255,255,255,0.74),
-				  0px -0.5px rgba(255,255,255,0.74),
+text-shadow:  -0.2px  0px rgba(255,255,255,0.74),
+				  0.2px  0px rgba(255,255,255,0.74),
+				  0px  0.2px rgba(255,255,255,0.74),
+				  0px -0.2px rgba(255,255,255,0.74),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px rgba(255,255,255,0.74),
-				  0.5px  0px rgba(255,255,255,0.74),
-				  0px  0.5px rgba(255,255,255,0.74),
-				  0px -0.5px rgba(255,255,255,0.74),
+  -gtk-icon-shadow:-0.2px  0px rgba(255,255,255,0.74),
+				  0.2px  0px rgba(255,255,255,0.74),
+				  0px  0.2px rgba(255,255,255,0.74),
+				  0px -0.2px rgba(255,255,255,0.74),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -3717,52 +3717,52 @@ headerbar .stack-switcher > button:checked,
 headerbar button.toggle:checked { 
 
     color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  border-color: #484848; 
-  border-bottom-color: #353534; 
+  border-color: #363636; 
+  border-bottom-color: #282828; 
   /*box-shadow: inset 0 0.6px #808181, 0 1px 2px rgba(0, 0, 0, 0.07);*/
   box-shadow: none;
   background-image: linear-gradient(to bottom,#494848,#383834);}
   
-headerbar button.toggle:checked:hover{
+/*headerbar button.toggle:checked:hover{
 
    color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  border-color: #484848; 
-  border-bottom-color: #353534; 
+  border-color: #363636; 
+  border-bottom-color: #282828; 
   box-shadow: none;
-  /*box-shadow: inset 0 0.6px #808181, 0 1px 2px rgba(0, 0, 0, 0.07);*/
-  background-image: linear-gradient(to bottom,#494848,#383834);}
+ 
+  background-image: linear-gradient(to bottom,#535252,#424238);}*/
   
 headerbar .linked > button:checked,
 .titlebar .linked > button:active,
@@ -3779,23 +3779,23 @@ headerbar button.toggle:checked,
 
 
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.07);
-  border-color: #494848; 
-  border-bottom-color: #353534; 
+  border-color: #363636; 
+  border-bottom-color: #282828; 
   background-color: transparent;
   background-image: linear-gradient(to bottom,#494848,#383834);
    color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -3929,18 +3929,18 @@ window.devel headerbar.titlebar:not(.selection-mode) {
 window.devel headerbar.titlebar:not(.selection-mode) label { 
 
    color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -4006,18 +4006,18 @@ treeview.view:selected {
 treeview.view:disabled { 
 
   color: #8b8b8b;
-  text-shadow:  -0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  text-shadow:  -0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -4066,18 +4066,18 @@ treeview.view.expander:selected {
 treeview.view.expander:selected:hover { 
 
   color: #ffffff; 
-   text-shadow:  -0.5px  0px alpha(#ffffff, 0.25),
-				  0.5px  0px alpha(#ffffff, 0.25),
-				  0px  0.5px alpha(#ffffff, 0.25),
-				  0px -0.5px alpha(#ffffff, 0.25),
+   text-shadow:  -0.2px  0px alpha(#ffffff, 0.25),
+				  0.2px  0px alpha(#ffffff, 0.25),
+				  0px  0.2px alpha(#ffffff, 0.25),
+				  0px -0.2px alpha(#ffffff, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow: -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  -gtk-icon-shadow: -0.2px  0px alpha(#ffffff, 0.2),
+				  0.2px  0px alpha(#ffffff, 0.2),
+				  0px  0.2px alpha(#ffffff, 0.4),
+				  0px -0.2px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.10),
 				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.10),
@@ -4118,18 +4118,18 @@ treeview.view.trough:selected {
 
 treeview.view header button { 
 color: #8e8e8d; 
- text-shadow:  -0.5px  0px alpha(#8e8e8d, 0.25),
-				  0.5px  0px alpha(#8e8e8d, 0.25),
-				  0px  0.5px alpha(#8e8e8d, 0.25),
-				  0px -0.5px alpha(#8e8e8d, 0.25),
+ text-shadow:  -0.2px  0px alpha(#8e8e8d, 0.25),
+				  0.2px  0px alpha(#8e8e8d, 0.25),
+				  0px  0.2px alpha(#8e8e8d, 0.25),
+				  0px -0.2px alpha(#8e8e8d, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow: -0.5px  0px alpha(#8e8e8d, 0.2),
-				  0.5px  0px alpha(#8e8e8d, 0.2),
-				  0px  0.5px alpha(#8e8e8d, 0.4),
-				  0px -0.5px alpha(#8e8e8d, 0.4),
+  -gtk-icon-shadow: -0.2px  0px alpha(#8e8e8d, 0.2),
+				  0.2px  0px alpha(#8e8e8d, 0.2),
+				  0px  0.2px alpha(#8e8e8d, 0.4),
+				  0px -0.2px alpha(#8e8e8d, 0.4),
 				  0px -1px alpha(#000000, 0.10),
 				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.10),
@@ -4142,18 +4142,18 @@ box-shadow: none;}
 treeview.view header button:hover { 
 
   color: #bebebd; 
-  text-shadow:  -0.5px  0px alpha(#bebebd, 0.25),
-				  0.5px  0px alpha(#bebebd, 0.25),
-				  0px  0.5px alpha(#bebebd, 0.25),
-				  0px -0.5px alpha(#bebebd, 0.25),
+  text-shadow:  -0.2px  0px alpha(#bebebd, 0.25),
+				  0.2px  0px alpha(#bebebd, 0.25),
+				  0px  0.2px alpha(#bebebd, 0.25),
+				  0px -0.2px alpha(#bebebd, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow: -0.5px  0px alpha(#bebebd, 0.2),
-				  0.5px  0px alpha(#bebebd, 0.2),
-				  0px  0.5px alpha(#bebebd, 0.4),
-				  0px -0.5px alpha(#bebebd, 0.4),
+  -gtk-icon-shadow: -0.2px  0px alpha(#bebebd, 0.2),
+				  0.2px  0px alpha(#bebebd, 0.2),
+				  0px  0.2px alpha(#bebebd, 0.4),
+				  0px -0.2px alpha(#bebebd, 0.4),
 				  0px -1px alpha(#000000, 0.10),
 				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.10),
@@ -4165,18 +4165,18 @@ treeview.view header button:hover {
 treeview.view header button:active { 
 
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -4193,18 +4193,18 @@ treeview.view header.button.dnd:hover,
 treeview.view header.button.dnd { 
 
   padding: 0 0.4125rem;/*6px;*/  
-    text-shadow:  -0.5px  0px alpha(#ffffff, 0.25),
-				  0.5px  0px alpha(#ffffff, 0.25),
-				  0px  0.5px alpha(#ffffff, 0.25),
-				  0px -0.5px alpha(#ffffff, 0.25),
+    text-shadow:  -0.2px  0px alpha(#ffffff, 0.25),
+				  0.2px  0px alpha(#ffffff, 0.25),
+				  0px  0.2px alpha(#ffffff, 0.25),
+				  0px -0.2px alpha(#ffffff, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow: -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  -gtk-icon-shadow: -0.2px  0px alpha(#ffffff, 0.2),
+				  0.2px  0px alpha(#ffffff, 0.2),
+				  0px  0.2px alpha(#ffffff, 0.4),
+				  0px -0.2px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.10),
 				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.10),
@@ -4215,7 +4215,6 @@ treeview.view header.button.dnd {
   border-style: none; 
   border-radius: 0; 
   box-shadow: inset 0 0 0 1px #ffffff; 
-  text-shadow: none; 
   transition: none; }
 
 
@@ -4231,8 +4230,7 @@ treeview.view header button:active {
   background-image: none; 
   border-style: none solid solid none; 
   border-color: #404040; 
-  border-radius: 0; 
-  text-shadow: none; }
+  border-radius: 0; }
 
 treeview.view header button:disabled { 
 
@@ -4258,18 +4256,18 @@ menubar > menuitem,
 .menubar > menuitem { 
 
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -4282,18 +4280,18 @@ menubar > menuitem:hover,
 
   box-shadow: inset 0 -3px #15539e; 
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -4303,18 +4301,18 @@ menubar > menuitem:disabled,
 .menubar > menuitem:disabled { 
 
   color: #8b8b8b;
-  text-shadow:  -0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  text-shadow:  -0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -4363,18 +4361,18 @@ menu menuitem,
 .context-menu menuitem {
 
    color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -4388,23 +4386,23 @@ menu menuitem:hover,
 .menu menuitem:hover, 
 .context-menu menuitem:hover { 
 
-  color: #ffffff; 
-  text-shadow:  -0.5px  0px alpha(#ffffff, 0.25),
-				  0.5px  0px alpha(#ffffff, 0.25),
-				  0px  0.5px alpha(#ffffff, 0.25),
-				  0px -0.5px alpha(#ffffff, 0.25),
+  color: #ececec;
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
-				  0px  1px alpha(#000000, 0.18),
+				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow: -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
-				  0px -1px alpha(#000000, 0.10),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
+				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.4),
-				  1px  0px alpha(#000000, 0.10),
-				 -1px  0px alpha(#000000, 0.10); 
+				  1px  0px alpha(#000000, 0.18),
+				 -1px  0px alpha(#000000, 0.18);
   background-color: #15539e; }
 
 menu menuitem:disabled, 
@@ -4412,18 +4410,18 @@ menu menuitem:disabled,
 .context-menu menuitem:disabled { 
 
   color: #8b8b8b;
-  text-shadow:  -0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  text-shadow:  -0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -4535,18 +4533,18 @@ popover.background,
 popover{
 
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -4680,18 +4678,18 @@ notebook > header tab {
   padding: 1px 0.825rem;/*12px;*/ 
   outline-offset: -5px; 
   color: #919190;
-  text-shadow:  -0.5px  0px alpha(#919190, 0.25),
-				  0.5px  0px alpha(#919190, 0.25),
-				  0px  0.5px alpha(#919190, 0.25),
-				  0px -0.5px alpha(#919190, 0.25),
+  text-shadow:  -0.2px  0px alpha(#919190, 0.25),
+				  0.2px  0px alpha(#919190, 0.25),
+				  0px  0.2px alpha(#919190, 0.25),
+				  0px -0.2px alpha(#919190, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#919190, 0.25),
-				  0.5px  0px alpha(#919190, 0.25),
-				  0px  0.5px alpha(#919190, 0.25),
-				  0px -0.5px alpha(#919190, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#919190, 0.25),
+				  0.2px  0px alpha(#919190, 0.25),
+				  0px  0.2px alpha(#919190, 0.25),
+				  0px -0.2px alpha(#919190, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -4703,18 +4701,18 @@ notebook > header tab {
 
 notebook > header tab:hover { 
 color: #c0c0be; 
-text-shadow:  -0.5px  0px alpha(#c0c0be, 0.25),
-				  0.5px  0px alpha(#c0c0be, 0.25),
-				  0px  0.5px alpha(#c0c0be, 0.25),
-				  0px -0.5px alpha(#c0c0be, 0.25),
+text-shadow:  -0.2px  0px alpha(#c0c0be, 0.25),
+				  0.2px  0px alpha(#c0c0be, 0.25),
+				  0px  0.2px alpha(#c0c0be, 0.25),
+				  0px -0.2px alpha(#c0c0be, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#c0c0be, 0.25),
-				  0.5px  0px alpha(#c0c0be, 0.25),
-				  0px  0.5px alpha(#c0c0be, 0.25),
-				  0px -0.5px alpha(#c0c0be, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#c0c0be, 0.25),
+				  0.2px  0px alpha(#c0c0be, 0.25),
+				  0px  0.2px alpha(#c0c0be, 0.25),
+				  0px -0.2px alpha(#c0c0be, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -4728,18 +4726,18 @@ notebook > header tab:hover.reorderable-page {
 notebook > header tab:checked { 
 
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -4851,7 +4849,7 @@ notebook > header.bottom tab { padding-top: 1px; }
 
 notebook > stack:not(:only-child) {
 
-  background-color: #313131; 
+  background-color: #454545; 
   transition: 300ms cubic-bezier(0.25, 0.46, 0.45, 0.94); }
 
 * { -GtkScrollbar-has-backward-stepper: false; -GtkScrollbar-has-forward-stepper: false; }
@@ -5442,18 +5440,18 @@ treeview.view radio:selected:disabled {
   padding: 0.06875rem;
   background-color: rgba(27,106,203,0.85);/*#3584e4;*/
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -5464,18 +5462,18 @@ treeview.view radio:selected:disabled {
 .nautilus-window .floating-bar button {
 
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -5489,18 +5487,18 @@ treeview.view radio:selected:disabled {
   background-color: transparent;
   background-image: none;
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -5513,18 +5511,18 @@ treeview.view radio:selected:disabled {
   background-color: transparent;
   background-image: none;
    color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -5550,18 +5548,18 @@ treeview.view radio:selected:disabled {
 .nautilus-window .floating-bar button:hover {
 
    color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -6216,18 +6214,18 @@ levelbar block.empty {
 printdialog paper { 
 
  color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -6322,18 +6320,18 @@ separator {
 list { 
 
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -6569,20 +6567,20 @@ placessidebar > viewport.frame {
 .nautilus-window placessidebar row,
 placessidebar row { 
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
-				  0px  1px alpha(#000000, 0.18),
+				  0px  1px alpha(#000000, 0.40),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
-				  0px  1px alpha(#000000, 0.18),
+				  0px  1px alpha(#000000, 0.40),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
   background-color: transparent;
@@ -6601,20 +6599,20 @@ placessidebar row > revealer {
 placessidebar row:hover { 
 
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
-				  0px  1px alpha(#000000, 0.18),
+				  0px  1px alpha(#000000, 0.40),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
-				  0px  1px alpha(#000000, 0.18),
+				  0px  1px alpha(#000000, 0.40),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
   background-color: rgba(255,255,255,0.07);}
@@ -6625,41 +6623,40 @@ placessidebar row:selected {
   /*transition: none;*/
   background-image: linear-gradient(to right,#15539e 2.3375rem, #185caf 2.3375rem, #185caf);
   color: rgba(255,255,255,1);
-  text-shadow:  -0.5px  0px alpha(#ffffff, 0.25),
-				  0.5px  0px alpha(#ffffff, 0.25),
-				  0px  0.5px alpha(#ffffff, 0.25),
-				  0px -0.5px alpha(#ffffff, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ffffff, 0.25),
+				  0.2px  0px alpha(#ffffff, 0.25),
+				  0px  0.2px alpha(#ffffff, 0.25),
+				  0px -0.2px alpha(#ffffff, 0.25),
 				  0px -1px alpha(#000000, 0.18),
-				  0px  1px alpha(#000000, 0.18),
+				  0px  1px alpha(#000000, 0.40),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow: -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  -gtk-icon-shadow: -0.2px  0px alpha(#ffffff, 0.2),
+				  0.2px  0px alpha(#ffffff, 0.2),
+				  0px  0.2px alpha(#ffffff, 0.4),
+				  0px -0.2px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.10),
 				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.10),
 				 -1px  0px alpha(#000000, 0.10); 
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
-  text-shadow: 0 1px rgba(0, 0, 0, 0.519216);}
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);}
   
   
 placessidebar row:disabled { 
 
  color: rgba(255,255,255,0.74);
-text-shadow:  -0.5px  0px rgba(255,255,255,0.74),
-				  0.5px  0px rgba(255,255,255,0.74),
-				  0px  0.5px rgba(255,255,255,0.74),
-				  0px -0.5px rgba(255,255,255,0.74),
+text-shadow:  -0.2px  0px rgba(255,255,255,0.74),
+				  0.2px  0px rgba(255,255,255,0.74),
+				  0px  0.2px rgba(255,255,255,0.74),
+				  0px -0.2px rgba(255,255,255,0.74),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px rgba(255,255,255,0.74),
-				  0.5px  0px rgba(255,255,255,0.74),
-				  0px  0.5px rgba(255,255,255,0.74),
-				  0px -0.5px rgba(255,255,255,0.74),
+  -gtk-icon-shadow:-0.2px  0px rgba(255,255,255,0.74),
+				  0.2px  0px rgba(255,255,255,0.74),
+				  0px  0.2px rgba(255,255,255,0.74),
+				  0px -0.2px rgba(255,255,255,0.74),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -6720,18 +6717,18 @@ placessidebar row:drop(active):not(:disabled) {
 placessidebar row:drop(active):not(:disabled):selected { 
 
   color: #ffffff; 
-  text-shadow:  -0.5px  0px alpha(#ffffff, 0.25),
-				  0.5px  0px alpha(#ffffff, 0.25),
-				  0px  0.5px alpha(#ffffff, 0.25),
-				  0px -0.5px alpha(#ffffff, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ffffff, 0.25),
+				  0.2px  0px alpha(#ffffff, 0.25),
+				  0px  0.2px alpha(#ffffff, 0.25),
+				  0px -0.2px alpha(#ffffff, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow: -0.5px  0px alpha(#ffffff, 0.2),
-				  0.5px  0px alpha(#ffffff, 0.2),
-				  0px  0.5px alpha(#ffffff, 0.4),
-				  0px -0.5px alpha(#ffffff, 0.4),
+  -gtk-icon-shadow: -0.2px  0px alpha(#ffffff, 0.2),
+				  0.2px  0px alpha(#ffffff, 0.2),
+				  0px  0.2px alpha(#ffffff, 0.4),
+				  0px -0.2px alpha(#ffffff, 0.4),
 				  0px -1px alpha(#000000, 0.10),
 				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.10),
@@ -6829,18 +6826,18 @@ infobar.question,
 infobar.warning, 
 infobar.error { 
 color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -6863,18 +6860,18 @@ infobar.error label,
 infobar.error { 
 
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -6887,18 +6884,18 @@ infobar.error button {
 
   border-radius:0.34375rem;/*4.66px*/
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -6916,18 +6913,18 @@ infobar.warning button:hover,
 infobar.error button:hover { 
 
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -6948,18 +6945,18 @@ infobar.error button:active,
 infobar.error button:checked { 
 
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -7004,18 +7001,18 @@ tooltip {
 
   border-radius: 0.34375rem;
   color: #8b8b8b;
-  text-shadow:  -0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  text-shadow:  -0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -7042,18 +7039,18 @@ tooltip * {
 
   background-color: rgba(0,0,0,0);
   color: #8b8b8b;
-  text-shadow:  -0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  text-shadow:  -0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -7254,20 +7251,20 @@ treeview.view:selected,
 row:selected, 
 calendar:selected { 
 color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
-				  0px  1px alpha(#000000, 0.18),
+				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
-				  0px  1px alpha(#000000, 0.18),
+				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
   background-color: #15539e; }
@@ -7296,20 +7293,20 @@ treeview.view:selected, row:selected,
 calendar:selected { 
 
   color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
-				  0px  1px alpha(#000000, 0.18),
+				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
-				  0px  1px alpha(#000000, 0.18),
+				  0px  1px alpha(#000000, 0.4),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18); }
 
@@ -7339,18 +7336,18 @@ calendar:disabled:selected {
 
   				 
 color: rgba(255,255,255,0.74);
-text-shadow:  -0.5px  0px rgba(255,255,255,0.74),
-				  0.5px  0px rgba(255,255,255,0.74),
-				  0px  0.5px rgba(255,255,255,0.74),
-				  0px -0.5px rgba(255,255,255,0.74),
+text-shadow:  -0.2px  0px rgba(255,255,255,0.74),
+				  0.2px  0px rgba(255,255,255,0.74),
+				  0px  0.2px rgba(255,255,255,0.74),
+				  0px -0.2px rgba(255,255,255,0.74),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
- /* -gtk-icon-shadow:-0.5px  0px rgba(255,255,255,0.74),
-				  0.5px  0px rgba(255,255,255,0.74),
-				  0px  0.5px rgba(255,255,255,0.74),
-				  0px -0.5px rgba(255,255,255,0.74),
+ /* -gtk-icon-shadow:-0.2px  0px rgba(255,255,255,0.74),
+				  0.2px  0px rgba(255,255,255,0.74),
+				  0px  0.2px rgba(255,255,255,0.74),
+				  0px -0.2px rgba(255,255,255,0.74),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -7471,18 +7468,18 @@ popover button{
   border-color: rgba(0,0,0,0.25);
   
    color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -7498,18 +7495,18 @@ popover button:disabled{
   border-color: rgba(0,0,0,0.25);
   
    color: #8b8b8b;
-  text-shadow:  -0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  text-shadow:  -0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#8b8b8b, 0.25),
-				  0.5px  0px alpha(#8b8b8b, 0.25),
-				  0px  0.5px alpha(#8b8b8b, 0.25),
-				  0px -0.5px alpha(#8b8b8b, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#8b8b8b, 0.25),
+				  0.2px  0px alpha(#8b8b8b, 0.25),
+				  0px  0.2px alpha(#8b8b8b, 0.25),
+				  0px -0.2px alpha(#8b8b8b, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -7526,18 +7523,18 @@ popover .linked:not(.vertical) > button{
   border-color: rgba(0,0,0,0.25);
   text-shadow: none;
    color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -7552,18 +7549,18 @@ popover .linked:not(.vertical) > button:hover:focus,
 popover .linked:not(.vertical) > button:hover{
 
    color: #ececec;
-  text-shadow:  -0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  text-shadow:  -0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
 				 -1px  0px alpha(#000000, 0.18);
-  -gtk-icon-shadow:-0.5px  0px alpha(#ececec, 0.25),
-				  0.5px  0px alpha(#ececec, 0.25),
-				  0px  0.5px alpha(#ececec, 0.25),
-				  0px -0.5px alpha(#ececec, 0.25),
+  -gtk-icon-shadow:-0.2px  0px alpha(#ececec, 0.25),
+				  0.2px  0px alpha(#ececec, 0.25),
+				  0px  0.2px alpha(#ececec, 0.25),
+				  0px -0.2px alpha(#ececec, 0.25),
 				  0px -1px alpha(#000000, 0.18),
 				  0px  1px alpha(#000000, 0.18),
 				  1px  0px alpha(#000000, 0.18),
@@ -7820,8 +7817,7 @@ headerbar button.titlebutton.restore:active,
 placessidebar.sidebar{
 
 background-color: #505050;
-background-image: url("graphics/blurredT.png");/*linear-gradient(to bottom left,rgba(242,243,246,0.96),rgba(219,224,230,0.96),rgba(215,220,226,0.96),rgba(219,224,230,0.96));
-  background-color: transparent;*/
+background-image: url("graphics/blurredT.png");
 background-size: cover;}
 
 .nautilus-window notebook{
@@ -7852,7 +7848,7 @@ background-size: cover;}
 /*text foreground color of insensitive widgets */
 @define-color insensitive_fg_color #919190;
 /*insensitive text widgets and the like base background color */
-@define-color insensitive_base_color #2d2d2d;
+@define-color insensitive_base_color #454545;
 /*widget text/foreground color on backdrop windows */
 @define-color theme_unfocused_fg_color #919190;
 /*text color for entries, views and content in general on backdrop windows */
@@ -7891,4 +7887,4 @@ read if you used those and something break with a version upgrade you're on your
 @define-color wm_button_active_color_a shade(#404040, 0.85);
 @define-color wm_button_active_color_b shade(#404040, 0.89);
 @define-color wm_button_active_color_c shade(#404040, 0.9);
-@define-color content_view_bg #2d2d2d;
+@define-color content_view_bg #454545;
