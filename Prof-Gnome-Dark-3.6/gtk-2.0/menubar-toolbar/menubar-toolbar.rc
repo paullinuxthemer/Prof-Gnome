@@ -1,0 +1,143 @@
+style "menubar" {
+  bg[INSENSITIVE] ="#dbdadd"
+  bg[NORMAL] = "#c8c8c8"
+  fg[NORMAL] = @selected_fg_color
+  fg[PRELIGHT] = @selected_fg_color
+  fg[ACTIVE] = @selected_fg_color
+  fg[SELECTED] = @selected_fg_color
+  fg[INSENSITIVE] = shade(1.3, @selected_fg_color)
+
+  xthickness = 0
+  ythickness = 0
+
+  engine "pixmap" {
+
+    image {
+      function = BOX
+      file  = "menubar-toolbar/menubar.png"
+      stretch  = TRUE
+      border = { 0,0,0,0 }
+    }
+  }
+}
+
+style "menubar-borderless" {
+
+  bg[NORMAL] = "#dadbdd"
+  fg[NORMAL] = @selected_fg_color
+  fg[SELECTED] = @selected_fg_color
+  fg[INSENSITIVE] = shade(1.3, @selected_fg_color)
+
+  xthickness = 0
+  ythickness = 0
+  engine "pixmap" {
+
+    image {
+      function = BOX
+      file  = "menubar-toolbar/menubar-disabled.png"
+      stretch  = TRUE
+      border = { 1, 1, 1, 1 }
+  
+    }
+  }
+}
+
+style "menubar_item" {
+
+  xthickness = 2
+  ythickness = 4
+  fg[NORMAL] = @selected_fg_color
+
+  fg[PRELIGHT] = @selected_fg_color
+
+  engine "pixmap" {
+
+    image {
+      function = BOX
+      state = PRELIGHT
+      file = "menubar-toolbar/menubar_button.png"
+      border = { 2, 2, 2, 2 }
+      stretch = TRUE
+    }
+  }
+}
+
+# Text Style Menubar
+style "menubar-text" {
+
+  engine "murrine" {
+    text_shade = 0.0
+    textstyle = 0
+  }
+}
+
+style "toolbar_entry" {
+
+  text[NORMAL] = "#202020"
+
+  engine "pixmap" {
+
+    image {
+      function = SHADOW
+      state = NORMAL
+      detail = "entry"
+      file = "menubar-toolbar/entry-toolbar.png"
+      border = {6, 6, 6, 6}
+      stretch = TRUE
+    }
+
+    image {
+      function = SHADOW
+      state = ACTIVE
+      detail = "entry"
+      file = "menubar-toolbar/entry-active-toolbar.png"
+      border = {6, 6, 6, 6}
+      stretch = TRUE
+    }
+
+    image {
+      function = SHADOW
+      state = INSENSITIVE
+      detail = "entry"
+      file = "menubar-toolbar/entry-disabled-toolbar.png"
+      border = {6, 6, 6, 6}
+      stretch = TRUE
+    }
+
+    image {
+      function = FLAT_BOX
+      state    = ACTIVE
+      detail   = "entry_bg"
+      file     = "assets/null.png"
+    }
+
+    image {
+      function = FLAT_BOX
+      state    = INSENSITIVE
+      detail   = "entry_bg"
+      file     = "assets/null.png"
+    }
+
+    image {
+      function = FLAT_BOX
+      detail   = "entry_bg"
+      file     = "assets/null.png"
+    }
+  }
+}
+
+
+
+widget_class "*<GtkMenuBar>*"                                       style "menubar"
+widget_class "*<GtkMenuBar>.<GtkMenuItem>*"                         style "menubar_item"
+
+widget_class "*ThunarWindow*<GtkToolbar>"                           style "menubar"
+widget_class "*CajaNavigationWindow*<GtkToolbar>"                   style "menubar"
+
+widget_class "*<GtkMenuBar>*<GtkMenuItem>*<GtkAccelLabel>"          style "menubar-text"
+
+# Whitelist for dark toolbars
+widget_class "*ThunarWindow*<GtkMenuBar>"                           style "menubar-borderless"
+widget_class "*CajaNavigationWindow*<GtkMenuBar>"                   style "menubar-borderless"
+widget_class "*ThunarWindow*<GtkToolbar>*<GtkEntry>"                style "toolbar_entry"
+widget_class "*CajaNavigationWindow*<GtkToolbar>*<GtkEntry>"        style "toolbar_entry"
