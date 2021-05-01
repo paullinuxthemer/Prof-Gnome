@@ -1,0 +1,135 @@
+/*((((((((( defining text-colors in all states )))))))))))))*/
+
+@define-color text_color #404040;
+@define-color text_shadow_color transparent;
+/**/
+@define-color selected_text_color #ffffff;
+@define-color selected_text_shadow_color #000000;
+/**/
+@define-color disabled_text_color #898989;
+@define-color disabled_text_shadow_color transparent;
+/**/
+@define-color sidebar_text_color #404040;
+@define-color sidebar_text_shadow_color transparent;
+/**/
+@define-color sidebar_selected_text_color #ffffff;
+@define-color sidebar_selected_text_shadow_color #000000;
+/**/
+@define-color osd_button_text_color #eeeeec;
+/**/
+@define-color headerbar_text_color #404040;
+@define-color headerbar_text_shadow_color transparent;
+@define-color headerbar_selected_text_color #404040;
+@define-color headerbar_selected_text_shadow_color transparent;
+/**/
+@define-color hb_button_text_color #404040;
+@define-color hb_button_text_shadow_color transparent;
+/**/
+@define-color hb_pathbar_button_text_color #404040;
+@define-color hb_pathbar_button_text_color_shadow_color transparent;
+@define-color hb_pathbar_button_selected_text_color #ffffff;
+@define-color hb_pathbar_button_selected_text_color_shadow_color #000000;
+@define-color modelbutton_selected_text_color #ffffff;
+@define-color modelbutton_selected_text_color_shadow_color #000000;
+/*colors on buttons*/
+@define-color button_color #ffffff;
+@define-color hd_pathbar_bg #d0d0d0;
+@define-color hd_pathbar_selected_bg #606060;/*#596068;*//*#555c66;*//*#606060;*/
+@define-color headerbar_button_color #d0d0d0;
+@define-color osd_button_color #505050;
+/*color-accents*/
+@define-color color_accent #3e81d3;/*#6398bb;*/
+@define-color color_accent_2 #3e81d3;/*#707070;*/
+@define-color color_accent_3 #3e81d3;/*#797d7d;*/
+@define-color icontext_selected_bg #3e81d3;
+@define-color rad_chk_bg #3e81d3;
+@define-color modelbutton_bg #3e81d3;
+/**/
+@define-color headerbar_color #d5d6da;/*#c6c6c6;*//*#d0d0d0;*//*#d0d3d8;*//*#d0d0d0;*/
+@define-color headerbar_selected_accent_color shade(@color_accent_2, 0.88);
+/**/
+@define-color shadows_light #ffffff;
+@define-color shadows_dark #000000;
+/**/
+@define-color menu_bg_color rgba(239,241,245,1);
+@define-color sidebar_bg_color rgba(231,233,237,0.96);
+/*text color for entries, views and content in general*/ 
+@define-color theme_text_color #404040;
+@define-color theme_fg_color #404040;
+/*
+widget base background color */
+@define-color base_bg_color rgba(243,243,244,0.99);/*rgba(243,243,243,0.99);*/
+@define-color theme_bg_color #f2f2f2;
+@define-color osd_bg_color #353535;
+ /*
+text widgets and the like base background color */
+@define-color theme_base_color #fafafb;/*#ffffff;*/
+/*
+base background color of selections @color_600 */
+@define-color theme_selected_bg_color @color_600;
+
+/*text/foreground color of selections */
+@define-color theme_selected_fg_color #ffffff;
+/*
+base background color of insensitive widgets */
+@define-color insensitive_bg_color #f8fafa;/*#faf9f8;*/
+/*
+text foreground color of insensitive widgets */
+@define-color insensitive_fg_color @disabled_text_color;
+/*
+insensitive text widgets and the like base background color */
+@define-color insensitive_base_color #ffffff;
+/*
+widget text/foreground color on backdrop windows */
+@define-color theme_unfocused_fg_color @disabled_text_color;
+/*
+text color for entries, views and content in general on backdrop windows */
+@define-color theme_unfocused_text_color #808080;
+/*
+widget base background color on backdrop windows */
+@define-color theme_unfocused_bg_color #e6e6e6;
+/*
+text widgets and the like base background color on backdrop windows */
+@define-color theme_unfocused_base_color #fcfcfc;
+/*
+base background color of selections on backdrop windows */
+@define-color theme_unfocused_selected_bg_color @color_600;
+/*
+text/foreground color of selections on backdrop windows */
+@define-color theme_unfocused_selected_fg_color #ffffff;
+/*
+insensitive color on backdrop windows*/
+@define-color unfocused_insensitive_color #d4cfca;
+/*
+widgets main borders color */
+@define-color borders #c5c9cc;/*#afada8;*//*#a7a5a0;*//*#cdcdcd;*/
+@define-color borders_light #fbfafa;
+@define-color borders_dark #000000;
+/*
+widgets main borders color on backdrop windows */
+@define-color unfocused_borders #d5d0cc;
+/*
+these are pretty self explicative */
+@define-color drop_color #4e9a06;
+@define-color color_destructive #e05b5b;/*#e54939;*//*#b25e5e;*/
+@define-color warning_color #f57900;
+@define-color error_color @color_destructive;
+@define-color success_color #33d17a;
+/*
+these colors are exported for the window manager and shouldn't be used in applications,
+read if you used those and something break with a version upgrade you're on your own... */
+@define-color wm_title shade(#363636, 1.8);
+@define-color wm_unfocused_title @disabled_text_color;
+@define-color wm_highlight rgba(255, 255, 255, 0.8);
+@define-color wm_borders_edge rgba(255, 255, 255, 0.8);
+@define-color wm_bg_a shade(#f6f6f6, 1.2);
+@define-color wm_bg_b #f6f6f6;
+@define-color wm_shadow alpha(black, 0.35);
+@define-color wm_border alpha(black, 0.18);
+@define-color wm_button_hover_color_a shade(#f6f6f6, 1.3);
+@define-color wm_button_hover_color_b #f6f6f6;
+@define-color wm_button_active_color_a shade(#f6f6f6, 0.85);
+@define-color wm_button_active_color_b shade(#f6f6f6, 0.89);
+@define-color wm_button_active_color_c shade(#f6f6f6, 0.9);
+@define-color content_view_bg #ffffff;
+
