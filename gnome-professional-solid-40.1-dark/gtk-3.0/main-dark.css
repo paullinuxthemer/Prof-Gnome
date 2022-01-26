@@ -2467,7 +2467,7 @@ combobox:drop(active)
 	                  -1px    0px alpha(@text_shadow_color, 0.12);
   box-shadow: none;
 }
-//*(((((((((( Toolbars )))))))))) 
+/*(((((((((( Toolbars )))))))))) 
 */
 toolbar, .inline-toolbar, 
 searchbar > revealer > box, 
