@@ -2467,8 +2467,9 @@ combobox:drop(active)
 	                  -1px    0px alpha(@text_shadow_color, 0.12);
   box-shadow: none;
 }
-//*(((((((((( Toolbars )))))))))) 
-*/
+
+/*(((((((((( Toolbars ))))))))))*/
+
 toolbar, .inline-toolbar, 
 searchbar > revealer > box, 
 .location-bar
@@ -5956,8 +5957,8 @@ separator
 */
 list
 { 
-             color: @text_color;
-      text-shadow: -0.1px    0px alpha(@text_color, 0.20),
+  color: @text_color;
+  text-shadow: -0.1px    0px alpha(@text_color, 0.20),
 		            0.1px    0px alpha(@text_color, 0.20),
 		              0px  0.1px alpha(@text_color, 0.20),
 		              0px -0.1px alpha(@text_color, 0.20),
@@ -5966,11 +5967,26 @@ list
 	                  1px    0px alpha(@text_shadow_color, 0.12),
 	                 -1px    0px alpha(@text_shadow_color, 0.12);
   border-color: @borders;background-color: @insensitive_bg_color;
+  border-radius: 10px;
 }
+
+
+list row:first-child 
+{
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+list row:last-child 
+{
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
 list row
 { 
-             color: @text_color;
-       text-shadow: -0.1px    0px alpha(@text_color, 0.20),
+  color: @text_color;
+  text-shadow: -0.1px    0px alpha(@text_color, 0.20),
 		             0.1px    0px alpha(@text_color, 0.20),
 		               0px  0.1px alpha(@text_color, 0.20),
 		               0px -0.1px alpha(@text_color, 0.20),
@@ -5978,12 +5994,15 @@ list row
 		               0px    1px alpha(@text_shadow_color, 0.4),
 	                   1px    0px alpha(@text_shadow_color, 0.12),
 	                  -1px    0px alpha(@text_shadow_color, 0.12);
-           padding: 2px;
+  padding: 2px;
 }
+
+
 row
 {   
-        transition: all 150ms cubic-bezier(0.25, 0.46, 0.45, 0.94); 
+  transition: all 150ms cubic-bezier(0.25, 0.46, 0.45, 0.94); 
 }
+
 row:hover
 { 
         transition: none;
@@ -6054,8 +6073,8 @@ expander title > arrow:checked
 */
 calendar
 { 
-             color: @text_color; 
-            border: 1px solid @borders;
+  color: @text_color; 
+  border: 1px solid @borders;
 }
 calendar:selected
 { 
@@ -6834,6 +6853,7 @@ colorchooser .popover.osd
 }
 /*(((((((((( Window Decorations )))))))))) 
 */
+
 decoration:backdrop,
 decoration
 { 

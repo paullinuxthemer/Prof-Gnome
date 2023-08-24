@@ -1,9 +1,9 @@
 
 /*---------------------loading-all-colors------------------------------------*/
 
-@import url("theme-colors/colors-dark.css");
+@import url("theme-colors/colors-light.css");
 
 /*---------------------loading-theme-css-------------------------------------*/
 
-@import url("main-dark.css");
+@import url("main-light.css");
 

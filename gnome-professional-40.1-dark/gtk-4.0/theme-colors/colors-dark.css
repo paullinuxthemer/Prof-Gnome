@@ -33,10 +33,10 @@
 @define-color modelbutton_selected_text_color_shadow_color #000000;
 /*colors on buttons*/
 @define-color button_color #606060;
-@define-color hd_pathbar_bg #494949;
+@define-color hd_pathbar_bg #353535;
 @define-color hd_pathbar_selected_bg #303030;
 @define-color headerbar_button_color #494949;
-@define-color osd_button_color #505050;
+@define-color osd_button_color #353535;
 /*color-accents*/
 @define-color color_accent #3478cb;
 @define-color color_accent_2 #3478cb;
@@ -48,34 +48,34 @@
 @define-color rad_chk_bg #3478cb;
 @define-color modelbutton_bg #3478cb;
 /**/
-@define-color headerbar_color #656565;
+@define-color headerbar_color #353535;
 @define-color headerbar_selected_accent_color shade(@color_accent_2, 0.88);
 /**/
 @define-color shadows_light #ffffff;
 @define-color shadows_dark #000000;
 /**/
-@define-color menu_bg_color #454545;
+@define-color menu_bg_color #151515;
 @define-color sidebar_bg_color rgba(49,49,49,0.985);
 /*text color for entries, views and content in general*/ 
 @define-color theme_text_color #ececec;
 @define-color theme_fg_color #ececec;
 /*
 widget base background color */
-@define-color base_bg_color rgba(69,69,70,0.985);
-@define-color theme_bg_color #404040;
-@define-color osd_bg_color #303030;
+@define-color base_bg_color rgba(30,30,30,0.9);
+@define-color theme_bg_color rgba(30,30,30,0.9);
+@define-color osd_bg_color rgba(20,20,20,0.7);
  /*
 text widgets and the like base background color */
-@define-color theme_base_color #353535;/*#ffffff;*/
+@define-color theme_base_color #202020;
 /*
 base background color of selections @color_600 */
 @define-color theme_selected_bg_color @color_600;
 
-/*text/foreground color of selections */
+/* text/foreground color of selections */
 @define-color theme_selected_fg_color #ececec;
 /*
 base background color of insensitive widgets */
-@define-color insensitive_bg_color #404040;
+@define-color insensitive_bg_color #202020;
 /*
 text foreground color of insensitive widgets */
 @define-color insensitive_fg_color @disabled_text_color;
@@ -105,7 +105,7 @@ insensitive color on backdrop windows*/
 @define-color unfocused_insensitive_color #5b5b5b;
 /*
 widgets main borders color */
-@define-color borders #323232;/*#afada8;*//*#a7a5a0;*//*#cdcdcd;*/
+@define-color borders #202020;
 @define-color borders_light #333333;
 @define-color borders_dark #202020;
 /*
@@ -114,7 +114,7 @@ widgets main borders color on backdrop windows */
 /*
 these are pretty self explicative */
 @define-color drop_color #4e9a06;
-@define-color color_destructive #692424;/*#e54939;*//*#b25e5e;*/
+@define-color color_destructive #692424;
 @define-color warning_color #f57900;
 @define-color error_color @color_destructive;
 @define-color success_color #26ab62;
@@ -124,9 +124,9 @@ read if you used those and something break with a version upgrade you're on your
 @define-color wm_title shade(#ececec, 1.8);
 @define-color wm_unfocused_title @disabled_text_color;
 @define-color wm_highlight rgba(0,0,0,0);
-@define-color wm_borders_edge rgba(238, 238, 236, 0.07);
+@define-color wm_borders_edge rgba(238, 238, 236, 0.7);
 @define-color wm_bg_a shade(#404040, 1.2);
-@define-color wm_bg_b #404040;
+@define-color wm_bg_b #353535;
 @define-color wm_shadow alpha(black, 0.35);
 @define-color wm_border alpha(black, 0.18);
 @define-color wm_button_hover_color_a shade(#404040, 1.3);

@@ -32,10 +32,10 @@
 @define-color modelbutton_selected_text_color #ececec;
 @define-color modelbutton_selected_text_color_shadow_color #000000;
 /*colors on buttons*/
-@define-color button_color #606060;
+@define-color button_color #404040;
 @define-color hd_pathbar_bg #494949;
 @define-color hd_pathbar_selected_bg #303030;
-@define-color headerbar_button_color #494949;
+@define-color headerbar_button_color #292929;
 @define-color osd_button_color #505050;
 /*color-accents*/
 @define-color color_accent #3478cb;
@@ -48,25 +48,25 @@
 @define-color rad_chk_bg #3478cb;
 @define-color modelbutton_bg #3478cb;
 /**/
-@define-color headerbar_color #656565;
+@define-color headerbar_color #353535;
 @define-color headerbar_selected_accent_color shade(@color_accent_2, 0.88);
 /**/
 @define-color shadows_light #ffffff;
 @define-color shadows_dark #000000;
 /**/
 @define-color menu_bg_color #454545;
-@define-color sidebar_bg_color rgba(49,49,49,0.985);
+@define-color sidebar_bg_color rgba(29,29,29,0.985);
 /*text color for entries, views and content in general*/ 
 @define-color theme_text_color #ececec;
 @define-color theme_fg_color #ececec;
 /*
 widget base background color */
-@define-color base_bg_color rgba(69,69,70,0.985);
-@define-color theme_bg_color #404040;
-@define-color osd_bg_color #303030;
+@define-color base_bg_color rgba(30,30,30,0.9);
+@define-color theme_bg_color rgba(30,30,30,0.9);
+@define-color osd_bg_color rgba(20,20,20,0.9);
  /*
 text widgets and the like base background color */
-@define-color theme_base_color #353535;/*#ffffff;*/
+@define-color theme_base_color rgba(45,45,46,0.9);
 /*
 base background color of selections @color_600 */
 @define-color theme_selected_bg_color @color_600;
@@ -75,13 +75,13 @@ base background color of selections @color_600 */
 @define-color theme_selected_fg_color #ececec;
 /*
 base background color of insensitive widgets */
-@define-color insensitive_bg_color #404040;
+@define-color insensitive_bg_color rgba(30,30,30,0.9);
 /*
 text foreground color of insensitive widgets */
 @define-color insensitive_fg_color @disabled_text_color;
 /*
 insensitive text widgets and the like base background color */
-@define-color insensitive_base_color #454545;
+@define-color insensitive_base_color rgba(30,30,30,0.9);
 /*
 widget text/foreground color on backdrop windows */
 @define-color theme_unfocused_fg_color @disabled_text_color;
@@ -105,12 +105,12 @@ insensitive color on backdrop windows*/
 @define-color unfocused_insensitive_color #5b5b5b;
 /*
 widgets main borders color */
-@define-color borders #323232;/*#afada8;*//*#a7a5a0;*//*#cdcdcd;*/
+@define-color borders #323232;
 @define-color borders_light #333333;
 @define-color borders_dark #202020;
 /*
 widgets main borders color on backdrop windows */
-@define-color unfocused_borders #d5d0cc;
+@define-color unfocused_borders #303030;
 /*
 these are pretty self explicative */
 @define-color drop_color #4e9a06;
