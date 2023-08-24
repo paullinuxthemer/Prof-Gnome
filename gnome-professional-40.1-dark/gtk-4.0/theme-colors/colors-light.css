@@ -34,19 +34,19 @@
 /*colors on buttons*/
 @define-color button_color #ffffff;
 @define-color hd_pathbar_bg #d0d0d0;
-@define-color hd_pathbar_selected_bg #606060;/*#596068;*//*#555c66;*//*#606060;*/
+@define-color hd_pathbar_selected_bg #606060;
 @define-color headerbar_button_color #d0d0d0;
 @define-color osd_button_color #505050;
 /*color-accents*/
-@define-color color_accent #3e81d3;/*#6398bb;*/
-@define-color color_accent_2 #3e81d3;/*#707070;*/
-@define-color color_accent_3 #3e81d3;/*#797d7d;*/
+@define-color color_accent #3e81d3;
+@define-color color_accent_2 #3e81d3;
+@define-color color_accent_3 #3e81d3;
 @define-color icontext_selected_bg #3e81d3;
 @define-color rad_chk_bg #3e81d3;
 @define-color modelbutton_bg #3e81d3;
 
 /**/
-@define-color headerbar_color #d5d6da;/*#c6c6c6;*//*#d0d3d8;*//*#d0d0d0;*/
+@define-color headerbar_color #eeeeee;
 @define-color headerbar_selected_accent_color shade(@color_accent_2, 0.88);
 /**/
 @define-color shadows_light #ffffff;
@@ -59,12 +59,12 @@
 @define-color theme_fg_color #404040;
 /*
 widget base background color */
-@define-color base_bg_color rgba(243,243,244,0.99);/*rgba(243,243,243,0.99);*/
+@define-color base_bg_color rgba(243,243,244,0.99);
 @define-color theme_bg_color #f2f2f2;
 @define-color osd_bg_color #353535;
  /*
 text widgets and the like base background color */
-@define-color theme_base_color #fafafb;/*#ffffff;*/
+@define-color theme_base_color #fafafb;
 /*
 base background color of selections @color_600 */
 @define-color theme_selected_bg_color @color_600;
@@ -73,7 +73,7 @@ base background color of selections @color_600 */
 @define-color theme_selected_fg_color #ffffff;
 /*
 base background color of insensitive widgets */
-@define-color insensitive_bg_color #f8fafa;/*#faf9f8;*/
+@define-color insensitive_bg_color #f8fafa;
 /*
 text foreground color of insensitive widgets */
 @define-color insensitive_fg_color @disabled_text_color;
@@ -103,7 +103,7 @@ insensitive color on backdrop windows*/
 @define-color unfocused_insensitive_color #d4cfca;
 /*
 widgets main borders color */
-@define-color borders #c5c9cc;/*#afada8;*//*#a7a5a0;*//*#cdcdcd;*/
+@define-color borders #c5c9cc;
 @define-color borders_light #fbfafa;
 @define-color borders_dark #000000;
 /*
@@ -112,7 +112,7 @@ widgets main borders color on backdrop windows */
 /*
 these are pretty self explicative */
 @define-color drop_color #4e9a06;
-@define-color color_destructive #e05b5b;/*#e54939;*//*#b25e5e;*/
+@define-color color_destructive #e05b5b;
 @define-color warning_color #f57900;
 @define-color error_color @color_destructive;
 @define-color success_color #33d17a;
